@@ -1,0 +1,106 @@
+{
+ "books": {
+  "starter": {
+   "pdf": "wordlist_X.pdf",
+   "pages": 74,
+   "header_rows": 68,
+   "skipped_pages": [
+    {
+     "page": 1,
+     "head": "ことばリスト ことばリスト ことばリスト ことばリスト Ver. 2021/10/01 ©The Japan Foundation"
+    },
+    {
+     "page": 2,
+     "head": "き ご う せつめい 記 号の説"
+    },
+    {
+     "page": 71,
+     "head": "に ほ ん ご 日 本語のアクセント"
+    },
+    {
+     "page": 72,
+     "head": "ぶん はつおん 文 の発 音 ▌"
+    },
+    {
+     "page": 73,
+     "head": "The Japanese Pitch Accent The Japanese language has a “pitch accent.” Each word has its own accent. Whether there is an "
+    },
+    {
+     "page": 74,
+     "head": "Sentence Pronunciation ▌ At the very start of a sentence, the pitch rises from low to high. After this, the pitch stays "
+    }
+   ],
+   "recovered": []
+  },
+  "elementary1": {
+   "pdf": "wordlist_Y.pdf",
+   "pages": 62,
+   "header_rows": 56,
+   "skipped_pages": [
+    {
+     "page": 1,
+     "head": "ことばリスト ことばリスト ことばリスト ことばリスト Ver. 2021/10/01 ©The Japan Foundation"
+    },
+    {
+     "page": 2,
+     "head": "き ご う せつめい 記 号の説"
+    },
+    {
+     "page": 59,
+     "head": "に ほ ん ご 日 本語のアクセント"
+    },
+    {
+     "page": 60,
+     "head": "ぶん はつおん 文 の発 音 ▌"
+    },
+    {
+     "page": 61,
+     "head": "The Japanese Pitch Accent The Japanese language has a “pitch accent.” Each word has its own accent. Whether there is an "
+    },
+    {
+     "page": 62,
+     "head": "Sentence Pronunciation ▌ At the very start of a sentence, the pitch rises from low to high. After this, the pitch stays "
+    }
+   ],
+   "recovered": [
+    {
+     "page": 10,
+     "why": "entry without a drawn row, recovered as a row",
+     "text": "～よね"
+    }
+   ]
+  },
+  "elementary2": {
+   "pdf": "wordlist_Z.pdf",
+   "pages": 88,
+   "header_rows": 82,
+   "skipped_pages": [
+    {
+     "page": 1,
+     "head": "ことばリスト ことばリスト ことばリスト ことばリスト Ver. 2021/10/01 ©The Japan Foundation"
+    },
+    {
+     "page": 2,
+     "head": "き ご う せつめい 記 号の説"
+    },
+    {
+     "page": 85,
+     "head": "に ほ ん ご 日 本語のアクセント"
+    },
+    {
+     "page": 86,
+     "head": "ぶん はつおん 文 の発 音 ▌"
+    },
+    {
+     "page": 87,
+     "head": "The Japanese Pitch Accent The Japanese language has a “pitch accent.” Each word has its own accent. Whether there is an "
+    },
+    {
+     "page": 88,
+     "head": "Sentence Pronunciation ▌ At the very start of a sentence, the pitch rises from low to high. After this, the pitch stays "
+    }
+   ],
+   "recovered": []
+  }
+ }
+}

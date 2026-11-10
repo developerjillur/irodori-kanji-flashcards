@@ -1,0 +1,260 @@
+S-L01-006	失礼します	しつれいします	Good bye.
+S-L01-007	お先に失礼します	おさきにしつれいします	Good bye. (I’ll take my leave before you.)
+S-L01-008	お疲れさま（でした）	おつかれさま（でした）	Good bye. (Thank you for your hard work.)
+S-L01-016	落としましたよ	おとしましたよ	You dropped this.
+S-L01-022	痛い！	いたい！	Ouch!
+S-L02-003	もう少し	もうすこし	a little.
+S-L02-005	在留カード	ざいりゅうカード	residence card
+S-L02-007	名前	なまえ	name
+S-L02-008	部屋	へや	room
+S-L02-010	お願いします	おねがいします	Please.
+S-L02-011	言ってください	いってください	Please say ～.
+S-L02-012	見せてください	みせてください	Please show me ～.
+S-L02-013	書いてください	かいてください	Please write ～.
+S-L02-026	日本語	にほんご	Japanese language
+S-L02-027	英語	えいご	English language
+S-L02-028	中国語	ちゅうごくご	Chinese language
+S-L02-029	インドネシア語	インドネシアご	Indonesian language
+S-L02-031	少し	すこし	a little / a few
+S-L02-032	お客さん	おきゃくさん	customer (used to address a customer if their name isn’t known)
+S-L02-040	日本語で	にほんごで	in Japanese
+S-L02-041	何	なん	what
+S-L02-042	消しゴム	けしゴム	eraser
+S-L02-043	傘	かさ	umbrella
+S-L02-045	免許証	めんきょしょう	license
+S-L02-046	蚊	か	mosquito
+S-L02-047	何ですか？	なんですか？	What is it?
+S-L02-048	何と言いますか？	なんといいますか？	What do you call it?
+S-L03-002	韓国	かんこく	South Korea
+S-L03-005	～から来ました	～からきました	came from ～
+S-L03-006	来る／来ます	くる／きます	to come
+S-L03-007	私	わたし	I / myself
+S-L03-009	（どうぞ）よろしくお願いします	（どうぞ）よろしくおねがいします	Nice to meet you.
+S-L03-011	名前／お名前	なまえ／おなまえ	name
+S-L03-012	出身／ご出身	しゅっしん／ごしゅっしん	hometown / (your) hometown
+S-L03-015	国／お国	くに／おくに	country / (your) country
+S-L03-020	友だち	ともだち	friend
+S-L03-021	同じ	おなじ	same
+S-L03-022	会社	かいしゃ	company
+S-L03-027	国籍	こくせき	nationality
+S-L03-028	生年月日	せいねんがっぴ	date of birth
+S-L03-029	西暦	せいれき	Gregorian calendar
+S-L03-030	～年	～ねん	year
+S-L03-031	～月（12月）	～がつ（じゅうにがつ）	month of the year (e.g. 12th month = December)
+S-L03-032	～日	～にち	day of the month
+S-L03-033	住所	じゅうしょ	address
+S-L03-034	電話番号	でんわばんごう	telephone number
+S-L03-036	申込書	もうしこみしょ	application form
+S-L04-001	父	ちち	(my) father
+S-L04-002	母	はは	(my) mother
+S-L04-003	兄	あに	(my) elder brother
+S-L04-004	姉	あね	(my) elder sister
+S-L04-005	弟	おとうと	(my) younger brother
+S-L04-006	妹	いもうと	(my) younger sister
+S-L04-007	夫	おっと	(my) husband
+S-L04-008	妻	つま	(my) wife
+S-L04-009	子ども	こども	child
+S-L04-010	～先生	～せんせい	～ sensee (suffix for teacher)
+S-L04-011	紹介する	しょうかいする	to introduce
+S-L04-014	紹介します	しょうかいします	I will introduce you.
+S-L04-017	家族／ご家族	かぞく／ごかぞく	family / (your) family
+S-L04-019	何歳	なんさい	how old
+S-L04-021	～歳	～さい	～ years old
+S-L04-023	住んでいます	すんでいます	live
+S-L04-024	住む	すむ	to live
+S-L04-044	20歳	にじゅっさい／はたち	twenty years old
+S-L04-045	恋人	こいびと	boyfriend / girlfriend
+S-L04-048	犬	いぬ	dog
+S-L04-050	日本	にほん	Japan
+S-L04-051	東京	とうきょう	Tokyo
+S-L04-054	誕生日	たんじょうび	birthday
+S-L04-055	海	うみ	sea / ocean
+S-L04-056	天気／お天気	てんき／おてんき	weather
+S-L04-057	最高	さいこう	fantastic
+S-L05-001	魚	さかな	fish
+S-L05-002	肉	にく	meat
+S-L05-003	野菜	やさい	vegetable
+S-L05-004	好きです	すきです	I like it.
+S-L05-005	刺身	さしみ	sashimi (sliced raw fish)
+S-L05-007	天ぷら	てんぷら	tempura
+S-L05-008	牛丼	ぎゅうどん	beef bowl
+S-L05-013	納豆	なっとう	natto (fermented soybeans)
+S-L05-014	梅干し	うめぼし	umeboshi (pickled plum)
+S-L05-016	食べ物	たべもの	food
+S-L05-022	紅茶	こうちゃ	black tea
+S-L05-023	お茶	おちゃ	tea / Japanese tea
+S-L05-024	水	みず	water
+S-L05-028	お酒	おさけ	alcohol / sake
+S-L05-029	飲む／飲みます	のむ／のみます	to drink
+S-L05-031	はい、お願いします	はい、おねがいします	Yes, please.
+S-L05-033	～お願いします	～おねがいします	～ please.
+S-L05-034	ご飯	ごはん	cooked rice
+S-L05-036	卵	たまご	egg
+S-L05-039	果物	くだもの	fruit
+S-L05-041	みそ汁	みそしる	miso soup
+S-L05-043	牛乳	ぎゅうにゅう	milk
+S-L05-047	食べる／食べます	たべる／たべます	to eat
+S-L05-048	朝ご飯	あさごはん	breakfast
+S-L05-053	今日	きょう	today
+S-L06-008	単品	たんぴん	single item
+S-L06-020	ウーロン茶	ウーロンちゃ	oolong tea
+S-L06-029	お持ち帰りですね	おもちかえりですね	That’s to take out, right? (polite expression)
+S-L06-030	何になさいますか？	なにになさいますか？	What would you like? (polite expression)
+S-L06-037	唐揚げ	からあげ	deep-fried
+S-L06-038	焼き鳥／焼鳥	やきとり	yakitori (grilled chicken)
+S-L06-039	枝豆	えだまめ	edamame (green soybeans in the pod)
+S-L06-040	生ビール	なまビール	draft beer
+S-L06-042	お魚	おさかな	fish
+S-L06-043	盛り合わせ	もりあわせ	assortment
+S-L06-044	～点盛（7点盛）	～てんもり（ななてんもり）	set of ～ items (set of seven items)
+S-L06-045	焼魚	やきざかな	grilled fish
+S-L06-046	お肉	おにく	meat
+S-L06-049	特製つくね	とくせいつくね	special tsukune (meatballs)
+S-L06-050	馬刺	ばさし	basashi (horse meat sashimi)
+S-L06-052	冷奴	ひややっこ	cold tofu
+S-L06-053	冷やしトマト	ひやしトマト	chilled tomatoes
+S-L06-056	日本酒	にほんしゅ	sake (Japanese rice wine)
+S-L06-057	焼酎	しょうちゅう	shochu (Japanese distilled liquor)
+S-L06-058	酎ハイ	ちゅうハイ	chu-hi (Japanese distilled liquor mixed with soda water)
+S-L06-061	緑茶ハイ	りょくちゃハイ	green tea-flavored chu-hi
+S-L06-064	緑茶	りょくちゃ	green tea
+S-L06-066	お問い合わせください	おといあわせください	Please ask. (polite expression)
+S-L06-071	お持ちします	おもちします	I’ll bring them to you. (polite expression used by staff)
+S-L06-085	取り皿	とりざら	individual plate
+S-L06-088	居酒屋	いざかや	izakaya (Japanese-style pub)
+S-L07-001	玄関	げんかん	entrance
+S-L07-002	お風呂	おふろ	bathroom
+S-L07-004	階段	かいだん	stairs
+S-L07-008	台所	だいどころ	kitchen
+S-L07-010	庭	にわ	garden
+S-L07-011	居間	いま	living room
+S-L07-013	1階	いっかい	first floor
+S-L07-014	2階	にかい	second floor
+S-L07-015	管理人室	かんりにんしつ	building manager’s office
+S-L07-016	食堂	しょくどう	cafeteria
+S-L07-017	入る／入ります	はいる／はいります	to come in
+S-L07-019	脱ぐ／脱ぎます	ぬぐ／ぬぎます	to take off
+S-L07-020	ご飯	ごはん	food / meal
+S-L07-021	入ってください	はいってください	Please come in.
+S-L07-022	脱いでください	ぬいでください	Please take them off.
+S-L07-023	お世話になります	おせわになります	I’ll be in your care. (polite expression used when meeting someone who will look after you)
+S-L07-025	冷蔵庫	れいぞうこ	refrigerator
+S-L07-026	電子レンジ	でんしレンジ	microwave
+S-L07-027	炊飯器	すいはんき	rice-cooker
+S-L07-033	洗濯機	せんたくき	washing machine
+S-L07-037	使う／使います	つかう／つかいます	to use
+S-L07-039	使ってください	つかってください	Please use it.
+S-L07-040	広い	ひろい	spacious
+S-L07-042	大きい	おおきい	large
+S-L07-043	小さい	ちいさい	small
+S-L07-044	新しい	あたらしい	new
+S-L07-045	古い	ふるい	old
+S-L07-046	静か（な）	しずか（な）	quiet
+S-L07-050	家	いえ	house
+S-L07-055	近く	ちかく	close
+S-L07-057	～区（南区）	～く（みなみく）	～ Ward (e.g. Minami Ward)
+S-L07-063	寮	りょう	dormitory
+S-L07-065	一戸建て	いっこだて	detached house
+S-L07-066	お寺	おてら	temple
+S-L07-067	学校	がっこう	school
+S-L07-068	公園	こうえん	park
+S-L07-071	入れる／入	いれる	to turn on / ON
+S-L07-072	切る／切	きる	to turn off / OFF
+S-L07-075	電源	でんげん	power supply
+S-L07-076	一時停止	いちじていし	pause
+S-L07-077	標準	ひょうじゅん	standard
+S-L07-079	手洗い	てあらい	hand wash
+S-L07-080	毛布	もうふ	blankets
+S-L07-082	槽洗浄	そうせんじょう	drum cleaning
+S-L07-083	予約	よやく	timer
+S-L07-084	残り	のこり	remaining
+S-L07-085	水量	すいりょう	water volume
+S-L07-086	冷房	れいぼう	cool
+S-L07-087	暖房	だんぼう	heat
+S-L07-088	除湿	じょしつ	dehumidify
+S-L07-089	自動	じどう	automatic
+S-L07-090	温度	おんど	temperature
+S-L07-091	風向	かざむき／ふうこう	wind direction
+S-L07-092	風量	ふうりょう	wind speed
+S-L07-093	停止	ていし	stop
+S-L07-095	取消	とりけし	cancel
+S-L08-001	更衣室	こういしつ	changing room
+S-L08-003	給湯室	きゅうとうしつ	kitchenette
+S-L08-004	会議室	かいぎしつ	conference room
+S-L08-005	喫煙所	きつえんじょ	smoking room / smoking area
+S-L08-006	倉庫	そうこ	storeroom
+S-L08-007	着替える／着替えます	きがえる／きがえます	to change (clothing)
+S-L08-008	ご飯を食べる／食べます	ごはんをたべる／たべます	to have meal
+S-L08-009	お茶をいれる／いれます	おちゃをいれる／いれます	to make tea
+S-L08-010	打ち合わせをする／します	うちあわせをする／します	to do meeting
+S-L08-011	男性	だんせい	men
+S-L08-016	探してみます	さがしてみます	I’ll try to look.
+S-L08-017	上	うえ／～（の）うえ	above
+S-L08-018	下	した／～（の）した	below
+S-L08-019	中	なか	inside
+S-L08-020	横	よこ	beside
+S-L08-022	引き出し	ひきだし	drawer
+S-L08-024	箱	はこ	box
+S-L08-026	コピー機	コピーき	copy machine
+S-L08-028	机	つくえ	desk
+S-L08-029	ごみ箱	ごみばこ	garbage can
+S-L08-034	応接室	おうせつしつ	reception room
+S-L08-035	事務室	じむしつ	office
+S-L09-001	今	いま	now
+S-L09-002	何時	なんじ	what time
+S-L09-003	朝	あさ	morning
+S-L09-004	昼	ひる	afternoon
+S-L09-005	夜	よる	night
+S-L09-006	午前	ごぜん	a.m.
+S-L09-007	午後	ごご	p.m.
+S-L09-008	～時	～じ	～ o’clock
+S-L09-009	1時	いちじ	one o’clock
+S-L09-010	2時	にじ	two o’clock
+S-L09-011	3時	さんじ	three o’clock
+S-L09-012	4時	よじ	four o’clock
+S-L09-013	5時	ごじ	five o’clock
+S-L09-014	6時	ろくじ	six o’clock
+S-L09-015	7時	しちじ	seven o’clock
+S-L09-016	8時	はちじ	eight o’clock
+S-L09-017	9時	くじ	nine o’clock
+S-L09-018	10時	じゅうじ	ten o’clock
+S-L09-019	11時	じゅういちじ	eleven o’clock
+S-L09-020	12時	じゅうにじ	twelve o’clock
+S-L09-021	～分	～ふん／ぷん	～ minutes (indicate the time)
+S-L09-022	15分	じゅうごふん	～ :15 / quarter past ～
+S-L09-023	30分	さんじゅっぷん	～ :30 / half past ～
+S-L09-024	45分	よんじゅうごふん	～ :45 / quarter to ～
+S-L09-025	半	はん	～ :30 / half past ～
+S-L09-026	起きる／起きます	おきる／おきます	to wake up
+S-L09-027	寝る／寝ます	ねる／ねます	to sleep
+S-L09-028	毎日	まいにち	every day
+S-L09-029	早い	はやい	early
+S-L09-031	毎朝	まいあさ	every morning
+S-L09-036	遅い	おそい	late
+S-L09-038	早いですね	はやいですね	That’s early.
+S-L09-039	遅いですね	おそいですね	That’s late.
+S-L09-040	お祈り	おいのり	prayer
+S-L09-041	勉強する／勉強します	べんきょうする／べんきょうします	to study
+S-L09-042	音楽	おんがく	music
+S-L09-043	聞く／聞きます	きく／ききます	to listen
+S-L09-045	見る／見ます	みる／みます	to watch
+S-L09-046	朝礼	ちょうれい	morning assembly
+S-L09-047	仕事	しごと	work
+S-L09-048	昼休み	ひるやすみ	lunch break
+S-L09-049	休み時間	やすみじかん	break time
+S-L09-050	残業	ざんぎょう	overtime
+S-L09-053	1日	いちにち	for the day
+S-L09-055	説明する／説明します	せつめいする／せつめいします	to explain
+S-L09-056	在	ざい	present
+S-L09-057	不在	ふざい	absent
+S-L09-058	遅刻	ちこく	late
+S-L09-059	休み	やすみ	off
+S-L09-060	外出	がいしゅつ	out
+S-L09-061	早退	そうたい	left early
+S-L09-062	行動	こうどう	activity
+S-L09-063	予定表	よていひょう	schedule board
+S-L09-064	氏名	しめい	full name
+S-L09-065	銀行	ぎんこう	bank
+S-L09-066	何曜日	なんようび	which day of the week
+S-L09-067	月曜日／月	げつようび／げつ	Monday
+S-L09-068	火曜日／火	かようび／か	Tuesday
