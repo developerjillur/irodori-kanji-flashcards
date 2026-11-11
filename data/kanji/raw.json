@@ -1,0 +1,6347 @@
+{
+ "pdf": "Irodori_Kanji_Furigana_Bangla_v2.pdf",
+ "pages": 24,
+ "rows": [
+  {
+   "book": "starter",
+   "lesson": 3,
+   "lesson_title": "よろしくお願いします",
+   "word": "名前",
+   "reading": "なまえ",
+   "bn_raw": "নাম",
+   "page": 1,
+   "y": 257.7
+  },
+  {
+   "book": "starter",
+   "lesson": 3,
+   "lesson_title": "よろしくお願いします",
+   "word": "国",
+   "reading": "くに",
+   "bn_raw": "ǂ%শ",
+   "page": 1,
+   "y": 281.5
+  },
+  {
+   "book": "starter",
+   "lesson": 3,
+   "lesson_title": "よろしくお願いします",
+   "word": "私",
+   "reading": "わたし",
+   "bn_raw": "আ7ম",
+   "page": 1,
+   "y": 305.4
+  },
+  {
+   "book": "starter",
+   "lesson": 4,
+   "lesson_title": "東京に住んでいます",
+   "word": "父",
+   "reading": "ちち",
+   "bn_raw": "বাবা",
+   "page": 1,
+   "y": 355.9
+  },
+  {
+   "book": "starter",
+   "lesson": 4,
+   "lesson_title": "東京に住んでいます",
+   "word": "母",
+   "reading": "はは",
+   "bn_raw": "মা",
+   "page": 1,
+   "y": 379.8
+  },
+  {
+   "book": "starter",
+   "lesson": 4,
+   "lesson_title": "東京に住んでいます",
+   "word": "子ども",
+   "reading": "こども",
+   "bn_raw": "7শশু; সন্তান",
+   "page": 1,
+   "y": 403.6
+  },
+  {
+   "book": "starter",
+   "lesson": 4,
+   "lesson_title": "東京に住んでいます",
+   "word": "日本",
+   "reading": "にほん",
+   "bn_raw": "জাপান",
+   "page": 1,
+   "y": 427.5
+  },
+  {
+   "book": "starter",
+   "lesson": 5,
+   "lesson_title": "うどんが好きです",
+   "word": "水",
+   "reading": "みず",
+   "bn_raw": "পা7ন",
+   "page": 1,
+   "y": 478.0
+  },
+  {
+   "book": "starter",
+   "lesson": 5,
+   "lesson_title": "うどんが好きです",
+   "word": "食べます",
+   "reading": "たべます",
+   "bn_raw": "খাই; খাওয়া",
+   "page": 1,
+   "y": 501.9
+  },
+  {
+   "book": "starter",
+   "lesson": 5,
+   "lesson_title": "うどんが好きです",
+   "word": "飲みます",
+   "reading": "のみます",
+   "bn_raw": "পান ক7র; পান করা",
+   "page": 1,
+   "y": 525.7
+  },
+  {
+   "book": "starter",
+   "lesson": 6,
+   "lesson_title": "チーズバーガーください",
+   "word": "魚",
+   "reading": "さかな",
+   "bn_raw": "মাছে",
+   "page": 1,
+   "y": 576.2
+  },
+  {
+   "book": "starter",
+   "lesson": 6,
+   "lesson_title": "チーズバーガーください",
+   "word": "肉",
+   "reading": "にく",
+   "bn_raw": "মাংস",
+   "page": 1,
+   "y": 600.1
+  },
+  {
+   "book": "starter",
+   "lesson": 6,
+   "lesson_title": "チーズバーガーください",
+   "word": "好き（な）",
+   "reading": "すき（な）",
+   "bn_raw": "পছে=ন্দের; পছেন্দে করা",
+   "page": 1,
+   "y": 623.9
+  },
+  {
+   "book": "starter",
+   "lesson": 7,
+   "lesson_title": "部屋が4 つあります",
+   "word": "家",
+   "reading": "いえ",
+   "bn_raw": "বা7ড়",
+   "page": 1,
+   "y": 674.4
+  },
+  {
+   "book": "starter",
+   "lesson": 7,
+   "lesson_title": "部屋が4 つあります",
+   "word": "新しい",
+   "reading": "あたらしい",
+   "bn_raw": "নতুন",
+   "page": 1,
+   "y": 698.3
+  },
+  {
+   "book": "starter",
+   "lesson": 7,
+   "lesson_title": "部屋が4 つあります",
+   "word": "広い",
+   "reading": "ひろい",
+   "bn_raw": "প্রশস্ত",
+   "page": 1,
+   "y": 722.2
+  },
+  {
+   "book": "starter",
+   "lesson": 7,
+   "lesson_title": "部屋が4 つあります",
+   "word": "古い",
+   "reading": "ふるい",
+   "bn_raw": "পু=রা=না",
+   "page": 1,
+   "y": 746.0
+  },
+  {
+   "book": "starter",
+   "lesson": 8,
+   "lesson_title": "山田さんはどこにいますか？",
+   "word": "上",
+   "reading": "うえ",
+   "bn_raw": "উপ=র",
+   "page": 2,
+   "y": 69.2
+  },
+  {
+   "book": "starter",
+   "lesson": 8,
+   "lesson_title": "山田さんはどこにいますか？",
+   "word": "下",
+   "reading": "した",
+   "bn_raw": "7ন=চি",
+   "page": 2,
+   "y": 93.1
+  },
+  {
+   "book": "starter",
+   "lesson": 8,
+   "lesson_title": "山田さんはどこにいますか？",
+   "word": "中",
+   "reading": "なか",
+   "bn_raw": "ǂভেত=র; মাঝখা=ন",
+   "page": 2,
+   "y": 117.0
+  },
+  {
+   "book": "starter",
+   "lesson": 9,
+   "lesson_title": "12 時から1 時まで昼休みです",
+   "word": "月",
+   "reading": "げつ",
+   "bn_raw": "ǂসামবা=রর 'ǂসাম'",
+   "page": 2,
+   "y": 167.5
+  },
+  {
+   "book": "starter",
+   "lesson": 9,
+   "lesson_title": "12 時から1 時まで昼休みです",
+   "word": "金",
+   "reading": "きん",
+   "bn_raw": "শুক্রবা=রর 'শুক্র'",
+   "page": 2,
+   "y": 191.3
+  },
+  {
+   "book": "starter",
+   "lesson": 9,
+   "lesson_title": "12 時から1 時まで昼休みです",
+   "word": "火",
+   "reading": "か",
+   "bn_raw": "মঙ্গলবা=রর 'মঙ্গল'",
+   "page": 2,
+   "y": 215.2
+  },
+  {
+   "book": "starter",
+   "lesson": 9,
+   "lesson_title": "12 時から1 時まで昼休みです",
+   "word": "土",
+   "reading": "ど",
+   "bn_raw": "শ7নবা=রর 'শ7ন'",
+   "page": 2,
+   "y": 239.1
+  },
+  {
+   "book": "starter",
+   "lesson": 9,
+   "lesson_title": "12 時から1 時まで昼休みです",
+   "word": "水",
+   "reading": "すい",
+   "bn_raw": "বুধবা=রর 'বুধ' (曜日-এ ব্যবহৃত)",
+   "page": 2,
+   "y": 262.9
+  },
+  {
+   "book": "starter",
+   "lesson": 9,
+   "lesson_title": "12 時から1 時まで昼休みです",
+   "word": "日",
+   "reading": "にち",
+   "bn_raw": "র7ববা=রর 'র7ব'; 7%ন",
+   "page": 2,
+   "y": 286.8
+  },
+  {
+   "book": "starter",
+   "lesson": 9,
+   "lesson_title": "12 時から1 時まで昼休みです",
+   "word": "木",
+   "reading": "もく",
+   "bn_raw": "বৃহস্প7তবা=রর 'বৃহস্প7ত'",
+   "page": 2,
+   "y": 310.6
+  },
+  {
+   "book": "starter",
+   "lesson": 9,
+   "lesson_title": "12 時から1 時まで昼休みです",
+   "word": "～曜日",
+   "reading": "～ようび",
+   "bn_raw": "সপ্তা=হর 7%ন; ǂযমন ǂসামবার",
+   "page": 2,
+   "y": 334.5
+  },
+  {
+   "book": "starter",
+   "lesson": 10,
+   "lesson_title": "ホチキス貸してください",
+   "word": "朝",
+   "reading": "あさ",
+   "bn_raw": "সকাল",
+   "page": 2,
+   "y": 385.0
+  },
+  {
+   "book": "starter",
+   "lesson": 10,
+   "lesson_title": "ホチキス貸してください",
+   "word": "～時",
+   "reading": "～じ",
+   "bn_raw": "টা; ঘণ্টা",
+   "page": 2,
+   "y": 408.9
+  },
+  {
+   "book": "starter",
+   "lesson": 10,
+   "lesson_title": "ホチキス貸してください",
+   "word": "昼",
+   "reading": "ひる",
+   "bn_raw": "%ুপুর",
+   "page": 2,
+   "y": 432.7
+  },
+  {
+   "book": "starter",
+   "lesson": 10,
+   "lesson_title": "ホチキス貸してください",
+   "word": "～分",
+   "reading": "～ふん",
+   "bn_raw": "7ম7নট",
+   "page": 2,
+   "y": 456.6
+  },
+  {
+   "book": "starter",
+   "lesson": 10,
+   "lesson_title": "ホチキス貸してください",
+   "word": "夜",
+   "reading": "よる",
+   "bn_raw": "রাত",
+   "page": 2,
+   "y": 480.5
+  },
+  {
+   "book": "starter",
+   "lesson": 10,
+   "lesson_title": "ホチキス貸してください",
+   "word": "～半",
+   "reading": "～はん",
+   "bn_raw": "সা=ড়; অ=ধর্থক",
+   "page": 2,
+   "y": 504.3
+  },
+  {
+   "book": "starter",
+   "lesson": 10,
+   "lesson_title": "ホチキス貸してください",
+   "word": "～枚",
+   "reading": "～まい",
+   "bn_raw": "পাতলা/সমতল বস্তু গণনার প্রত্যয়",
+   "page": 2,
+   "y": 528.2
+  },
+  {
+   "book": "starter",
+   "lesson": 11,
+   "lesson_title": "どんなマンガが好きですか？",
+   "word": "読みます",
+   "reading": "よみます",
+   "bn_raw": "প7ড়; পড়া",
+   "page": 2,
+   "y": 578.7
+  },
+  {
+   "book": "starter",
+   "lesson": 11,
+   "lesson_title": "どんなマンガが好きですか？",
+   "word": "聞きます",
+   "reading": "ききます",
+   "bn_raw": "শু7ন; ǂশানা",
+   "page": 2,
+   "y": 602.6
+  },
+  {
+   "book": "starter",
+   "lesson": 11,
+   "lesson_title": "どんなマンガが好きですか？",
+   "word": "見ます",
+   "reading": "みます",
+   "bn_raw": "ǂ%7খ; ǂ%খা",
+   "page": 2,
+   "y": 626.4
+  },
+  {
+   "book": "starter",
+   "lesson": 11,
+   "lesson_title": "どんなマンガが好きですか？",
+   "word": "本",
+   "reading": "ほん",
+   "bn_raw": "বই",
+   "page": 2,
+   "y": 650.3
+  },
+  {
+   "book": "starter",
+   "lesson": 11,
+   "lesson_title": "どんなマンガが好きですか？",
+   "word": "友だち",
+   "reading": "ともだち",
+   "bn_raw": "বন্ধু",
+   "page": 2,
+   "y": 674.1
+  },
+  {
+   "book": "starter",
+   "lesson": 11,
+   "lesson_title": "どんなマンガが好きですか？",
+   "word": "何",
+   "reading": "なに",
+   "bn_raw": "কী",
+   "page": 2,
+   "y": 698.0
+  },
+  {
+   "book": "starter",
+   "lesson": 12,
+   "lesson_title": "いっしょに飲みに行きませんか？",
+   "word": "～年",
+   "reading": "～ねん",
+   "bn_raw": "বছের",
+   "page": 2,
+   "y": 748.5
+  },
+  {
+   "book": "starter",
+   "lesson": 12,
+   "lesson_title": "いっしょに飲みに行きませんか？",
+   "word": "～月",
+   "reading": "～がつ",
+   "bn_raw": "মাস",
+   "page": 2,
+   "y": 772.4
+  },
+  {
+   "book": "starter",
+   "lesson": 12,
+   "lesson_title": "いっしょに飲みに行きませんか？",
+   "word": "～日",
+   "reading": "～にち",
+   "bn_raw": "তা7রখ; 7%ন",
+   "page": 3,
+   "y": 69.2
+  },
+  {
+   "book": "starter",
+   "lesson": 12,
+   "lesson_title": "いっしょに飲みに行きませんか？",
+   "word": "今日",
+   "reading": "きょう",
+   "bn_raw": "আজ",
+   "page": 3,
+   "y": 93.0
+  },
+  {
+   "book": "starter",
+   "lesson": 12,
+   "lesson_title": "いっしょに飲みに行きませんか？",
+   "word": "今週",
+   "reading": "こんしゅう",
+   "bn_raw": "এই সপ্তাহ",
+   "page": 3,
+   "y": 116.9
+  },
+  {
+   "book": "starter",
+   "lesson": 12,
+   "lesson_title": "いっしょに飲みに行きませんか？",
+   "word": "今度",
+   "reading": "こんど",
+   "bn_raw": "এবার; প=রর বার",
+   "page": 3,
+   "y": 140.8
+  },
+  {
+   "book": "starter",
+   "lesson": 13,
+   "lesson_title": "このバスは空港に行きますか？",
+   "word": "東",
+   "reading": "ひがし",
+   "bn_raw": "পূবর্থ",
+   "page": 3,
+   "y": 191.3
+  },
+  {
+   "book": "starter",
+   "lesson": 13,
+   "lesson_title": "このバスは空港に行きますか？",
+   "word": "西",
+   "reading": "にし",
+   "bn_raw": "পǭশ্চিম",
+   "page": 3,
+   "y": 215.1
+  },
+  {
+   "book": "starter",
+   "lesson": 13,
+   "lesson_title": "このバスは空港に行きますか？",
+   "word": "南",
+   "reading": "みなみ",
+   "bn_raw": "%Ǭক্ষিণ",
+   "page": 3,
+   "y": 239.0
+  },
+  {
+   "book": "starter",
+   "lesson": 13,
+   "lesson_title": "このバスは空港に行きますか？",
+   "word": "北",
+   "reading": "きた",
+   "bn_raw": "উত্তর",
+   "page": 3,
+   "y": 262.9
+  },
+  {
+   "book": "starter",
+   "lesson": 13,
+   "lesson_title": "このバスは空港に行きますか？",
+   "word": "会社",
+   "reading": "かいしゃ",
+   "bn_raw": "ǂকাম্পা7ন; প্র7তষ্ঠান",
+   "page": 3,
+   "y": 286.7
+  },
+  {
+   "book": "starter",
+   "lesson": 13,
+   "lesson_title": "このバスは空港に行きますか？",
+   "word": "来ます",
+   "reading": "きます",
+   "bn_raw": "আসা",
+   "page": 3,
+   "y": 310.6
+  },
+  {
+   "book": "starter",
+   "lesson": 13,
+   "lesson_title": "このバスは空港に行きますか？",
+   "word": "行きます",
+   "reading": "いきます",
+   "bn_raw": "যাওয়া",
+   "page": 3,
+   "y": 334.5
+  },
+  {
+   "book": "starter",
+   "lesson": 13,
+   "lesson_title": "このバスは空港に行きますか？",
+   "word": "乗ります",
+   "reading": "のります",
+   "bn_raw": "চিড়া; যানবাহ=ন ওঠা",
+   "page": 3,
+   "y": 358.3
+  },
+  {
+   "book": "starter",
+   "lesson": 14,
+   "lesson_title": "大きな建物ですね",
+   "word": "大きい",
+   "reading": "おおきい",
+   "bn_raw": "বড়",
+   "page": 3,
+   "y": 408.8
+  },
+  {
+   "book": "starter",
+   "lesson": 14,
+   "lesson_title": "大きな建物ですね",
+   "word": "小さい",
+   "reading": "ちいさい",
+   "bn_raw": "ǂছোট",
+   "page": 3,
+   "y": 432.7
+  },
+  {
+   "book": "starter",
+   "lesson": 14,
+   "lesson_title": "大きな建物ですね",
+   "word": "高い",
+   "reading": "たかい",
+   "bn_raw": "উঁচিু; %া7ম",
+   "page": 3,
+   "y": 456.6
+  },
+  {
+   "book": "starter",
+   "lesson": 14,
+   "lesson_title": "大きな建物ですね",
+   "word": "低い",
+   "reading": "ひくい",
+   "bn_raw": "7নচিু",
+   "page": 3,
+   "y": 480.4
+  },
+  {
+   "book": "starter",
+   "lesson": 14,
+   "lesson_title": "大きな建物ですね",
+   "word": "前",
+   "reading": "まえ",
+   "bn_raw": "সাম=ন; আ=গ",
+   "page": 3,
+   "y": 504.3
+  },
+  {
+   "book": "starter",
+   "lesson": 14,
+   "lesson_title": "大きな建物ですね",
+   "word": "後ろ",
+   "reading": "うしろ",
+   "bn_raw": "ǂপছে=ন",
+   "page": 3,
+   "y": 528.1
+  },
+  {
+   "book": "starter",
+   "lesson": 15,
+   "lesson_title": "電池がほしいんですが…",
+   "word": "入口",
+   "reading": "いりぐち",
+   "bn_raw": "প্র=বশদ্বার",
+   "page": 3,
+   "y": 578.6
+  },
+  {
+   "book": "starter",
+   "lesson": 15,
+   "lesson_title": "電池がほしいんですが…",
+   "word": "出口",
+   "reading": "でぐち",
+   "bn_raw": "ǂবর হওয়ার প$; ব7হগর্থমন",
+   "page": 3,
+   "y": 602.5
+  },
+  {
+   "book": "starter",
+   "lesson": 15,
+   "lesson_title": "電池がほしいんですが…",
+   "word": "～階",
+   "reading": "～かい",
+   "bn_raw": "তলা",
+   "page": 3,
+   "y": 626.4
+  },
+  {
+   "book": "starter",
+   "lesson": 15,
+   "lesson_title": "電池がほしいんですが…",
+   "word": "押す",
+   "reading": "おす",
+   "bn_raw": "চিাপ ǂ%ওয়া",
+   "page": 3,
+   "y": 650.2
+  },
+  {
+   "book": "starter",
+   "lesson": 15,
+   "lesson_title": "電池がほしいんですが…",
+   "word": "引く",
+   "reading": "ひく",
+   "bn_raw": "টানা",
+   "page": 3,
+   "y": 674.1
+  },
+  {
+   "book": "starter",
+   "lesson": 15,
+   "lesson_title": "電池がほしいんですが…",
+   "word": "安い",
+   "reading": "やすい",
+   "bn_raw": "সস্তা",
+   "page": 3,
+   "y": 698.0
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "一",
+   "reading": "いち",
+   "bn_raw": "এক",
+   "page": 3,
+   "y": 748.5
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "六",
+   "reading": "ろく",
+   "bn_raw": "ছেয়",
+   "page": 3,
+   "y": 772.3
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "二",
+   "reading": "に",
+   "bn_raw": "%ুই",
+   "page": 4,
+   "y": 69.2
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "七",
+   "reading": "なな",
+   "bn_raw": "সাত",
+   "page": 4,
+   "y": 93.0
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "三",
+   "reading": "さん",
+   "bn_raw": "7তন",
+   "page": 4,
+   "y": 116.9
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "八",
+   "reading": "はち",
+   "bn_raw": "আট",
+   "page": 4,
+   "y": 140.8
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "四",
+   "reading": "よん",
+   "bn_raw": "চিার",
+   "page": 4,
+   "y": 164.6
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "九",
+   "reading": "きゅう",
+   "bn_raw": "নয়",
+   "page": 4,
+   "y": 188.5
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "五",
+   "reading": "ご",
+   "bn_raw": "পাাচি",
+   "page": 4,
+   "y": 212.4
+  },
+  {
+   "book": "starter",
+   "lesson": 16,
+   "lesson_title": "これ、いくらですか？",
+   "word": "十",
+   "reading": "じゅう",
+   "bn_raw": "%শ",
+   "page": 4,
+   "y": 236.2
+  },
+  {
+   "book": "starter",
+   "lesson": 17,
+   "lesson_title": "映画を見に行きました",
+   "word": "百",
+   "reading": "ひゃく",
+   "bn_raw": "একশ",
+   "page": 4,
+   "y": 286.7
+  },
+  {
+   "book": "starter",
+   "lesson": 17,
+   "lesson_title": "映画を見に行きました",
+   "word": "千",
+   "reading": "せん",
+   "bn_raw": "এক হাজার",
+   "page": 4,
+   "y": 310.6
+  },
+  {
+   "book": "starter",
+   "lesson": 17,
+   "lesson_title": "映画を見に行きました",
+   "word": "万",
+   "reading": "まん",
+   "bn_raw": "%শ হাজার",
+   "page": 4,
+   "y": 334.5
+  },
+  {
+   "book": "starter",
+   "lesson": 17,
+   "lesson_title": "映画を見に行きました",
+   "word": "～円",
+   "reading": "～えん",
+   "bn_raw": "ই=য়ন; জাপা7ন মুদ্রা",
+   "page": 4,
+   "y": 358.3
+  },
+  {
+   "book": "starter",
+   "lesson": 17,
+   "lesson_title": "映画を見に行きました",
+   "word": "休み",
+   "reading": "やすみ",
+   "bn_raw": "ছেুটি; 7বশ্রাম",
+   "page": 4,
+   "y": 382.2
+  },
+  {
+   "book": "starter",
+   "lesson": 17,
+   "lesson_title": "映画を見に行きました",
+   "word": "映画",
+   "reading": "えいが",
+   "bn_raw": "7স=নমা; চিলǬচ্চিত্র",
+   "page": 4,
+   "y": 406.1
+  },
+  {
+   "book": "starter",
+   "lesson": 17,
+   "lesson_title": "映画を見に行きました",
+   "word": "日本語",
+   "reading": "にほんご",
+   "bn_raw": "জাপা7ন ভোষা",
+   "page": 4,
+   "y": 429.9
+  },
+  {
+   "book": "starter",
+   "lesson": 17,
+   "lesson_title": "映画を見に行きました",
+   "word": "勉強します",
+   "reading": "べんきょうします",
+   "bn_raw": "পড়া=শানা ক7র; পড়া=শানা করা",
+   "page": 4,
+   "y": 453.8
+  },
+  {
+   "book": "starter",
+   "lesson": 18,
+   "lesson_title": "温泉に入りたいです",
+   "word": "温泉",
+   "reading": "おんせん",
+   "bn_raw": "উষ্ণ প্রস্রবণ; হট ǯস্প্রিং",
+   "page": 4,
+   "y": 504.3
+  },
+  {
+   "book": "starter",
+   "lesson": 18,
+   "lesson_title": "温泉に入りたいです",
+   "word": "予定",
+   "reading": "よてい",
+   "bn_raw": "প7রকল্পনা; সময়সূ7চি",
+   "page": 4,
+   "y": 528.1
+  },
+  {
+   "book": "starter",
+   "lesson": 18,
+   "lesson_title": "温泉に入りたいです",
+   "word": "来週",
+   "reading": "らいしゅう",
+   "bn_raw": "আগামী সপ্তাহ",
+   "page": 4,
+   "y": 552.0
+  },
+  {
+   "book": "starter",
+   "lesson": 18,
+   "lesson_title": "温泉に入りたいです",
+   "word": "会います",
+   "reading": "あいます",
+   "bn_raw": "ǂ%খা করা; সাক্ষিাৎ করা",
+   "page": 4,
+   "y": 575.9
+  },
+  {
+   "book": "starter",
+   "lesson": 18,
+   "lesson_title": "温泉に入りたいです",
+   "word": "入ります",
+   "reading": "はいります",
+   "bn_raw": "প্র=বশ করা",
+   "page": 4,
+   "y": 599.7
+  },
+  {
+   "book": "starter",
+   "lesson": 18,
+   "lesson_title": "温泉に入りたいです",
+   "word": "旅行します",
+   "reading": "りょこうします",
+   "bn_raw": "ভ্রমণ করা",
+   "page": 4,
+   "y": 623.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "学生",
+   "reading": "がくせい",
+   "bn_raw": "7শক্ষিা$র্থী; ছোত্র/ছোত্রী",
+   "page": 4,
+   "y": 674.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "仕事",
+   "reading": "しごと",
+   "bn_raw": "কাজ; চিাক7র",
+   "page": 4,
+   "y": 698.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "学校",
+   "reading": "がっこう",
+   "bn_raw": "স্কুল",
+   "page": 4,
+   "y": 721.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "元気（な）",
+   "reading": "げんき（な）",
+   "bn_raw": "সুস্থ; প্রাণবন্ত",
+   "page": 4,
+   "y": 745.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "生活",
+   "reading": "せいかつ",
+   "bn_raw": "জীবনযাপন",
+   "page": 4,
+   "y": 769.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "忙しい",
+   "reading": "いそがしい",
+   "bn_raw": "ব্যস্ত",
+   "page": 5,
+   "y": 69.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "去年",
+   "reading": "きょねん",
+   "bn_raw": "গত বছের",
+   "page": 5,
+   "y": 93.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "働く",
+   "reading": "はたらく",
+   "bn_raw": "কাজ করা",
+   "page": 5,
+   "y": 116.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "先週",
+   "reading": "せんしゅう",
+   "bn_raw": "গত সপ্তাহ",
+   "page": 5,
+   "y": 140.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 1,
+   "lesson_title": "レストランで働いています",
+   "word": "作る",
+   "reading": "つくる",
+   "bn_raw": "ǃত7র করা",
+   "page": 5,
+   "y": 164.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "人",
+   "reading": "ひと",
+   "bn_raw": "মানুষ; ব্যǬক্তি",
+   "page": 5,
+   "y": 215.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "英語",
+   "reading": "えいご",
+   "bn_raw": "ইং=রǬজ ভোষা",
+   "page": 5,
+   "y": 239.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "～人",
+   "reading": "～にん",
+   "bn_raw": "জন; মানু=ষর সংখ্যা গণনার প্রত্যয়",
+   "page": 5,
+   "y": 262.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "音楽",
+   "reading": "おんがく",
+   "bn_raw": "সঙ্গীত",
+   "page": 5,
+   "y": 286.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "～人",
+   "reading": "～じん",
+   "bn_raw": "ǂকা=না ǂ%=শর মানুষ/জাতীয়তা ǂবাঝা=নার প্রত্যয়",
+   "page": 5,
+   "y": 310.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "習う",
+   "reading": "ならう",
+   "bn_raw": "ǂশখা; প্র7শক্ষিণ ǂনওয়া",
+   "page": 5,
+   "y": 334.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "犬",
+   "reading": "いぬ",
+   "bn_raw": "কুকুর",
+   "page": 5,
+   "y": 358.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "話す",
+   "reading": "はなす",
+   "bn_raw": "ক$া বলা",
+   "page": 5,
+   "y": 382.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "家族",
+   "reading": "かぞく",
+   "bn_raw": "প7রবার",
+   "page": 5,
+   "y": 406.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "出かける",
+   "reading": "でかける",
+   "bn_raw": "বাই=র ǂবর হওয়া",
+   "page": 5,
+   "y": 429.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 2,
+   "lesson_title": "ゲームをするのが好きです",
+   "word": "夕方",
+   "reading": "ゆうがた",
+   "bn_raw": "7ব=কল; সন্ধ্যার আ=গর সময়",
+   "page": 5,
+   "y": 453.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 3,
+   "lesson_title": "冬はとても寒くなります",
+   "word": "季節",
+   "reading": "きせつ",
+   "bn_raw": "ঋতু",
+   "page": 5,
+   "y": 504.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 3,
+   "lesson_title": "冬はとても寒くなります",
+   "word": "花",
+   "reading": "はな",
+   "bn_raw": "ফুল",
+   "page": 5,
+   "y": 528.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 3,
+   "lesson_title": "冬はとても寒くなります",
+   "word": "春",
+   "reading": "はる",
+   "bn_raw": "বসন্ত",
+   "page": 5,
+   "y": 552.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 3,
+   "lesson_title": "冬はとても寒くなります",
+   "word": "同じ",
+   "reading": "おなじ",
+   "bn_raw": "একই",
+   "page": 5,
+   "y": 575.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 3,
+   "lesson_title": "冬はとても寒くなります",
+   "word": "夏",
+   "reading": "なつ",
+   "bn_raw": "গ্রীষ্ম",
+   "page": 5,
+   "y": 599.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 3,
+   "lesson_title": "冬はとても寒くなります",
+   "word": "暑い",
+   "reading": "あつい",
+   "bn_raw": "গরম; উষ্ণ আবহাওয়া",
+   "page": 5,
+   "y": 623.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 3,
+   "lesson_title": "冬はとても寒くなります",
+   "word": "秋",
+   "reading": "あき",
+   "bn_raw": "শরৎ",
+   "page": 5,
+   "y": 647.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 3,
+   "lesson_title": "冬はとても寒くなります",
+   "word": "寒い",
+   "reading": "さむい",
+   "bn_raw": "ঠান্ডা",
+   "page": 5,
+   "y": 671.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 3,
+   "lesson_title": "冬はとても寒くなります",
+   "word": "冬",
+   "reading": "ふゆ",
+   "bn_raw": "শীত",
+   "page": 5,
+   "y": 695.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "天気",
+   "reading": "てんき",
+   "bn_raw": "আবহাওয়া",
+   "page": 5,
+   "y": 745.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "今",
+   "reading": "いま",
+   "bn_raw": "এখন",
+   "page": 5,
+   "y": 769.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "晴れ",
+   "reading": "はれ",
+   "bn_raw": "ǂরৌ=দ্রাজ্জ্বল আবহাওয়া",
+   "page": 6,
+   "y": 69.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "昨日",
+   "reading": "きのう",
+   "bn_raw": "গতকাল",
+   "page": 6,
+   "y": 93.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "雨",
+   "reading": "あめ",
+   "bn_raw": "বৃষ্টি",
+   "page": 6,
+   "y": 116.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "明日",
+   "reading": "あした",
+   "bn_raw": "আগামীকাল",
+   "page": 6,
+   "y": 140.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "雪",
+   "reading": "ゆき",
+   "bn_raw": "তুষার; তুষারপাত",
+   "page": 6,
+   "y": 164.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "毎日",
+   "reading": "まいにち",
+   "bn_raw": "প্র7ত7%ন",
+   "page": 6,
+   "y": 188.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "風",
+   "reading": "かぜ",
+   "bn_raw": "বাতাস",
+   "page": 6,
+   "y": 212.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 4,
+   "lesson_title": "昨日はすごい雨でしたね",
+   "word": "強い",
+   "reading": "つよい",
+   "bn_raw": "শǬক্তিশালী; ǂজারা=লা",
+   "page": 6,
+   "y": 236.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "町",
+   "reading": "まち",
+   "bn_raw": "শহর; নগর এলাকা",
+   "page": 6,
+   "y": 286.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "静か（な）",
+   "reading": "しずか（な）",
+   "bn_raw": "শান্ত; 7ন7র7বǬল",
+   "page": 6,
+   "y": 310.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "店",
+   "reading": "みせ",
+   "bn_raw": "ǂ%াকান",
+   "page": 6,
+   "y": 334.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "有名（な）",
+   "reading": "ゆうめい（な）",
+   "bn_raw": "7বখ্যাত",
+   "page": 6,
+   "y": 358.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "食堂",
+   "reading": "しょくどう",
+   "bn_raw": "খাবার ঘর; ক্যা7ন্টিন",
+   "page": 6,
+   "y": 382.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "多い",
+   "reading": "おおい",
+   "bn_raw": "অ=নক; ǂব7শ",
+   "page": 6,
+   "y": 406.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "便利（な）",
+   "reading": "べんり（な）",
+   "bn_raw": "সু7বধাজনক",
+   "page": 6,
+   "y": 429.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "少ない",
+   "reading": "すくない",
+   "bn_raw": "কম; অল্প",
+   "page": 6,
+   "y": 453.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "不便（な）",
+   "reading": "ふべん（な）",
+   "bn_raw": "অসু7বধাজনক",
+   "page": 6,
+   "y": 477.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 5,
+   "lesson_title": "とてもにぎやかで便利です",
+   "word": "遠い",
+   "reading": "とおい",
+   "bn_raw": "%ূ=র",
+   "page": 6,
+   "y": 501.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "道",
+   "reading": "みち",
+   "bn_raw": "রাস্তা; প$",
+   "page": 6,
+   "y": 552.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "右",
+   "reading": "みぎ",
+   "bn_raw": "ডান",
+   "page": 6,
+   "y": 575.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "公園",
+   "reading": "こうえん",
+   "bn_raw": "পাকর্থ",
+   "page": 6,
+   "y": 599.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "左",
+   "reading": "ひだり",
+   "bn_raw": "বাম",
+   "page": 6,
+   "y": 623.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "銀行",
+   "reading": "ぎんこう",
+   "bn_raw": "ব্যাংক",
+   "page": 6,
+   "y": 647.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "近く",
+   "reading": "ちかく",
+   "bn_raw": "কাছোকা7ছে",
+   "page": 6,
+   "y": 671.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "お寺",
+   "reading": "おてら",
+   "bn_raw": "ǂবৌদ্ধ মǭন্দের",
+   "page": 6,
+   "y": 695.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "車",
+   "reading": "くるま",
+   "bn_raw": "গা7ড়",
+   "page": 6,
+   "y": 719.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "神社",
+   "reading": "じんじゃ",
+   "bn_raw": "7শ=ন্তা মǭন্দের",
+   "page": 6,
+   "y": 742.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 6,
+   "lesson_title": "郵便局はどう行ったらいいですか？",
+   "word": "送る",
+   "reading": "おくる",
+   "bn_raw": "পাঠা=না; ǂপৌঁ=ছে ǂ%ওয়া",
+   "page": 6,
+   "y": 766.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "時間",
+   "reading": "じかん",
+   "bn_raw": "সময়",
+   "page": 7,
+   "y": 95.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "電車",
+   "reading": "でんしゃ",
+   "bn_raw": "ǂট্রেন",
+   "page": 7,
+   "y": 119.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "場所",
+   "reading": "ばしょ",
+   "bn_raw": "জায়গা; স্থান",
+   "page": 7,
+   "y": 143.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "待つ",
+   "reading": "まつ",
+   "bn_raw": "অ=পক্ষিা করা",
+   "page": 7,
+   "y": 167.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "駅",
+   "reading": "えき",
+   "bn_raw": "ǂস্টেশন",
+   "page": 7,
+   "y": 191.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "止まる",
+   "reading": "とまる",
+   "bn_raw": "ǂ$=ম যাওয়া",
+   "page": 7,
+   "y": 214.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "受付",
+   "reading": "うけつけ",
+   "bn_raw": "7র=সপশন; অভে্য$র্থনা ǂডস্ক",
+   "page": 7,
+   "y": 238.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "着く",
+   "reading": "つく",
+   "bn_raw": "ǂপৌঁছো=না",
+   "page": 7,
+   "y": 262.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "門",
+   "reading": "もん",
+   "bn_raw": "ফটক",
+   "page": 7,
+   "y": 286.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 7,
+   "lesson_title": "道に迷ってちょっと遅れます",
+   "word": "急ぐ",
+   "reading": "いそぐ",
+   "bn_raw": "তাড়াহু=ড়া করা",
+   "page": 7,
+   "y": 310.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 8,
+   "lesson_title": "野球、したことありますか？",
+   "word": "お金",
+   "reading": "おかね",
+   "bn_raw": "টাকা",
+   "page": 7,
+   "y": 360.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 8,
+   "lesson_title": "野球、したことありますか？",
+   "word": "試合",
+   "reading": "しあい",
+   "bn_raw": "ǂখলা; ম্যাচি",
+   "page": 7,
+   "y": 384.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 8,
+   "lesson_title": "野球、したことありますか？",
+   "word": "食事",
+   "reading": "しょくじ",
+   "bn_raw": "খাবার; আহার",
+   "page": 7,
+   "y": 408.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 8,
+   "lesson_title": "野球、したことありますか？",
+   "word": "楽しい",
+   "reading": "たのしい",
+   "bn_raw": "আনন্দে%ায়ক; মজার",
+   "page": 7,
+   "y": 432.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 8,
+   "lesson_title": "野球、したことありますか？",
+   "word": "難しい",
+   "reading": "むずかしい",
+   "bn_raw": "কঠিন",
+   "page": 7,
+   "y": 456.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 8,
+   "lesson_title": "野球、したことありますか？",
+   "word": "～店",
+   "reading": "～てん",
+   "bn_raw": "ǂ%াকান; ǂ%াকা=নর না=মর ǂশ=ষ ব্যবহৃত প্রত্যয়",
+   "page": 7,
+   "y": 480.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 8,
+   "lesson_title": "野球、したことありますか？",
+   "word": "登る",
+   "reading": "のぼる",
+   "bn_raw": "ওঠা; আ=রাহণ করা",
+   "page": 7,
+   "y": 504.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 8,
+   "lesson_title": "野球、したことありますか？",
+   "word": "博物館",
+   "reading": "はくぶつかん",
+   "bn_raw": "জা%ুঘর",
+   "page": 7,
+   "y": 527.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 8,
+   "lesson_title": "野球、したことありますか？",
+   "word": "動物園",
+   "reading": "どうぶつえん",
+   "bn_raw": "7চি7ড়য়াখানা",
+   "page": 7,
+   "y": 551.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "高校",
+   "reading": "こうこう",
+   "bn_raw": "উচ্চি 7ব%্যালয়",
+   "page": 7,
+   "y": 602.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "言う",
+   "reading": "いう",
+   "bn_raw": "বলা",
+   "page": 7,
+   "y": 626.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "大学",
+   "reading": "だいがく",
+   "bn_raw": "7বশ্ব7ব%্যালয়",
+   "page": 7,
+   "y": 649.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "書く",
+   "reading": "かく",
+   "bn_raw": "ǂলখা",
+   "page": 7,
+   "y": 673.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "練習",
+   "reading": "れんしゅう",
+   "bn_raw": "অনুশীলন",
+   "page": 7,
+   "y": 697.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "貸す",
+   "reading": "かす",
+   "bn_raw": "ধার ǂ%ওয়া",
+   "page": 7,
+   "y": 721.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "漢字",
+   "reading": "かんじ",
+   "bn_raw": "কানǬজ; জাপা7ন ǂলখার চিীনা-উৎপǬত্তর অক্ষির",
+   "page": 7,
+   "y": 745.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "教える",
+   "reading": "おしえる",
+   "bn_raw": "ǂশখা=না; জানা=না",
+   "page": 7,
+   "y": 769.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "説明する",
+   "reading": "せつめいする",
+   "bn_raw": "ব্যাখ্যা করা",
+   "page": 8,
+   "y": 69.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 9,
+   "lesson_title": "読み方を教えてもらえませんか？",
+   "word": "無料",
+   "reading": "むりょう",
+   "bn_raw": "7বনামূ=ল্য",
+   "page": 8,
+   "y": 93.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 10,
+   "lesson_title": "日本語教室に参加したいんですが…",
+   "word": "午前",
+   "reading": "ごぜん",
+   "bn_raw": "পূবর্থাহ্ন; সকাল ১২টার আ=গর সময়",
+   "page": 8,
+   "y": 143.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 10,
+   "lesson_title": "日本語教室に参加したいんですが…",
+   "word": "全部",
+   "reading": "ぜんぶ",
+   "bn_raw": "সব; সম্পূণর্থ",
+   "page": 8,
+   "y": 167.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 10,
+   "lesson_title": "日本語教室に参加したいんですが…",
+   "word": "午後",
+   "reading": "ごご",
+   "bn_raw": "অপরাহ্ন; %ুপু=রর প=রর সময়",
+   "page": 8,
+   "y": 191.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 10,
+   "lesson_title": "日本語教室に参加したいんですが…",
+   "word": "～回",
+   "reading": "～かい",
+   "bn_raw": "বার; কতবার তার গণনা",
+   "page": 8,
+   "y": 215.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 10,
+   "lesson_title": "日本語教室に参加したいんですが…",
+   "word": "教科書",
+   "reading": "きょうかしょ",
+   "bn_raw": "পাঠ্যবই",
+   "page": 8,
+   "y": 239.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 10,
+   "lesson_title": "日本語教室に参加したいんですが…",
+   "word": "参加する",
+   "reading": "さんかする",
+   "bn_raw": "অংশগ্রহণ করা",
+   "page": 8,
+   "y": 262.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 10,
+   "lesson_title": "日本語教室に参加したいんですが…",
+   "word": "教室",
+   "reading": "きょうしつ",
+   "bn_raw": "ǂশ্র7ণকক্ষি",
+   "page": 8,
+   "y": 286.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 10,
+   "lesson_title": "日本語教室に参加したいんですが…",
+   "word": "用意する",
+   "reading": "よういする",
+   "bn_raw": "প্রস্তুত করা",
+   "page": 8,
+   "y": 310.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 10,
+   "lesson_title": "日本語教室に参加したいんですが…",
+   "word": "先生",
+   "reading": "せんせい",
+   "bn_raw": "7শক্ষিক; স্যার/ম্যাডাম",
+   "page": 8,
+   "y": 334.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "飲み物",
+   "reading": "のみもの",
+   "bn_raw": "পানীয়",
+   "page": 8,
+   "y": 385.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "牛肉",
+   "reading": "ぎゅうにく",
+   "bn_raw": "গরুর মাংস",
+   "page": 8,
+   "y": 408.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "お茶",
+   "reading": "おちゃ",
+   "bn_raw": "চিা",
+   "page": 8,
+   "y": 432.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "豚肉",
+   "reading": "ぶたにく",
+   "bn_raw": "শূক=রর মাংস",
+   "page": 8,
+   "y": 456.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "お酒",
+   "reading": "おさけ",
+   "bn_raw": "ম%্যপ পানীয়; সা=ক",
+   "page": 8,
+   "y": 480.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "皿",
+   "reading": "さら",
+   "bn_raw": "$ালা; ǂপ্লেট",
+   "page": 8,
+   "y": 504.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "材料",
+   "reading": "ざいりょう",
+   "bn_raw": "উপকরণ; উপা%ান",
+   "page": 8,
+   "y": 528.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "売る",
+   "reading": "うる",
+   "bn_raw": "7বǬক্র করা",
+   "page": 8,
+   "y": 552.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "野菜",
+   "reading": "やさい",
+   "bn_raw": "সবǬজ",
+   "page": 8,
+   "y": 575.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 11,
+   "lesson_title": "肉と野菜は私が買って行きます",
+   "word": "持って行く",
+   "reading": "もっていく",
+   "bn_raw": "7ন=য় যাওয়া",
+   "page": 8,
+   "y": 599.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 12,
+   "lesson_title": "お弁当、おいしそうですね",
+   "word": "卵",
+   "reading": "たまご",
+   "bn_raw": "7ডম",
+   "page": 8,
+   "y": 650.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 12,
+   "lesson_title": "お弁当、おいしそうですね",
+   "word": "味",
+   "reading": "あじ",
+   "bn_raw": "স্বা%",
+   "page": 8,
+   "y": 674.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 12,
+   "lesson_title": "お弁当、おいしそうですね",
+   "word": "料理",
+   "reading": "りょうり",
+   "bn_raw": "রান্না; খাবার",
+   "page": 8,
+   "y": 698.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 12,
+   "lesson_title": "お弁当、おいしそうですね",
+   "word": "甘い",
+   "reading": "あまい",
+   "bn_raw": "7মষ্টি",
+   "page": 8,
+   "y": 721.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 12,
+   "lesson_title": "お弁当、おいしそうですね",
+   "word": "お湯",
+   "reading": "おゆ",
+   "bn_raw": "গরম পা7ন",
+   "page": 8,
+   "y": 745.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 12,
+   "lesson_title": "お弁当、おいしそうですね",
+   "word": "辛い",
+   "reading": "からい",
+   "bn_raw": "ঝাল",
+   "page": 8,
+   "y": 769.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 12,
+   "lesson_title": "お弁当、おいしそうですね",
+   "word": "調理方法",
+   "reading": "ちょうりほうほう",
+   "bn_raw": "রান্নার পদ্ধ7ত",
+   "page": 9,
+   "y": 69.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 12,
+   "lesson_title": "お弁当、おいしそうですね",
+   "word": "苦手（な）",
+   "reading": "にがて（な）",
+   "bn_raw": "ǂকা=না কা=জ %ুবর্থল; অপছেন্দে",
+   "page": 9,
+   "y": 93.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 12,
+   "lesson_title": "お弁当、おいしそうですね",
+   "word": "少し",
+   "reading": "すこし",
+   "bn_raw": "একটু; সামান্য",
+   "page": 9,
+   "y": 116.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "コピー機",
+   "reading": "コピーき",
+   "bn_raw": "ফ=টাক7প ǂম7শন",
+   "page": 9,
+   "y": 167.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "悪い",
+   "reading": "わるい",
+   "bn_raw": "খারাপ",
+   "page": 9,
+   "y": 191.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "数字",
+   "reading": "すうじ",
+   "bn_raw": "সংখ্যা; অঙ্ক",
+   "page": 9,
+   "y": 215.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "動く",
+   "reading": "うごく",
+   "bn_raw": "চিলা; কাজ করা",
+   "page": 9,
+   "y": 239.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "電気",
+   "reading": "でんき",
+   "bn_raw": "7ব%ু্যৎ",
+   "page": 9,
+   "y": 262.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "使う",
+   "reading": "つかう",
+   "bn_raw": "ব্যবহার করা",
+   "page": 9,
+   "y": 286.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "音",
+   "reading": "おと",
+   "bn_raw": "শব্দ",
+   "page": 9,
+   "y": 310.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "終わる",
+   "reading": "おわる",
+   "bn_raw": "ǂশষ হওয়া",
+   "page": 9,
+   "y": 334.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "お願い",
+   "reading": "おねがい",
+   "bn_raw": "অনু=রাধ",
+   "page": 9,
+   "y": 358.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "机",
+   "reading": "つくえ",
+   "bn_raw": "ǂডস্ক; ǂট7বল",
+   "page": 9,
+   "y": 382.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 13,
+   "lesson_title": "あと10分ぐらいで終わりそうです",
+   "word": "都合",
+   "reading": "つごう",
+   "bn_raw": "সু7বধা; সম=য়র সু7বধা",
+   "page": 9,
+   "y": 406.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "早く",
+   "reading": "はやく",
+   "bn_raw": "তাড়াতা7ড়",
+   "page": 9,
+   "y": 456.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "用事",
+   "reading": "ようじ",
+   "bn_raw": "কাজ; জরু7র ব্যাপার",
+   "page": 9,
+   "y": 480.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "吸う",
+   "reading": "すう",
+   "bn_raw": "টানা; ধূমপান করা",
+   "page": 9,
+   "y": 504.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "氏名",
+   "reading": "しめい",
+   "bn_raw": "পূণর্থ নাম",
+   "page": 9,
+   "y": 528.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "取る",
+   "reading": "とる",
+   "bn_raw": "ǂনওয়া; গ্রহণ করা",
+   "page": 9,
+   "y": 552.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "理由",
+   "reading": "りゆう",
+   "bn_raw": "কারণ",
+   "page": 9,
+   "y": 575.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "連絡先",
+   "reading": "れんらくさき",
+   "bn_raw": "ǂযাগা=যা=গর ঠিকানা/নম্বর",
+   "page": 9,
+   "y": 599.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "帰る",
+   "reading": "かえる",
+   "bn_raw": "Ǭফ=র যাওয়া",
+   "page": 9,
+   "y": 623.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "別に",
+   "reading": "べつに",
+   "bn_raw": "7ব=শষ ক=র; ǂতমন 7কছেু নয় (ǂন7তবাচিক বা=ক্য)",
+   "page": 9,
+   "y": 647.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 14,
+   "lesson_title": "休みを取ってもいいでしょうか？",
+   "word": "伝える",
+   "reading": "つたえる",
+   "bn_raw": "জানা=না; ǂপৌঁ=ছে বলা",
+   "page": 9,
+   "y": 671.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "熱",
+   "reading": "ねつ",
+   "bn_raw": "জ্বর; তাপ",
+   "page": 9,
+   "y": 721.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "～才",
+   "reading": "～さい",
+   "bn_raw": "～ বছের বয়স",
+   "page": 9,
+   "y": 745.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "薬",
+   "reading": "くすり",
+   "bn_raw": "ওষুধ",
+   "page": 9,
+   "y": 769.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "痛い",
+   "reading": "いたい",
+   "bn_raw": "ব্য$া করা",
+   "page": 10,
+   "y": 69.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "病気",
+   "reading": "びょうき",
+   "bn_raw": "অসুখ",
+   "page": 10,
+   "y": 93.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "眠い",
+   "reading": "ねむい",
+   "bn_raw": "ঘুম পাওয়া",
+   "page": 10,
+   "y": 116.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "病院",
+   "reading": "びょういん",
+   "bn_raw": "হাসপাতাল",
+   "page": 10,
+   "y": 140.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "寝る",
+   "reading": "ねる",
+   "bn_raw": "ঘুমা=না; শু=ত যাওয়া",
+   "page": 10,
+   "y": 164.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "医者",
+   "reading": "いしゃ",
+   "bn_raw": "ডাক্তিার",
+   "page": 10,
+   "y": 188.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "記入する",
+   "reading": "きにゅうする",
+   "bn_raw": "Ǭল=খ পূরণ করা",
+   "page": 10,
+   "y": 212.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 15,
+   "lesson_title": "熱があってのどが痛いんです",
+   "word": "住所",
+   "reading": "じゅうしょ",
+   "bn_raw": "ঠিকানা",
+   "page": 10,
+   "y": 236.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "体",
+   "reading": "からだ",
+   "bn_raw": "শরীর",
+   "page": 10,
+   "y": 286.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "足",
+   "reading": "あし",
+   "bn_raw": "পা",
+   "page": 10,
+   "y": 310.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "顔",
+   "reading": "かお",
+   "bn_raw": "মুখমণ্ডল",
+   "page": 10,
+   "y": 334.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "手",
+   "reading": "て",
+   "bn_raw": "হাত",
+   "page": 10,
+   "y": 358.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "目",
+   "reading": "め",
+   "bn_raw": "ǂচিাখ",
+   "page": 10,
+   "y": 382.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "起きる",
+   "reading": "おきる",
+   "bn_raw": "ঘুম ǂ$=ক ওঠা",
+   "page": 10,
+   "y": 406.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "耳",
+   "reading": "みみ",
+   "bn_raw": "কান",
+   "page": 10,
+   "y": 429.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "歩く",
+   "reading": "あるく",
+   "bn_raw": "হাাটা",
+   "page": 10,
+   "y": 453.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "口",
+   "reading": "くち",
+   "bn_raw": "মুখ",
+   "page": 10,
+   "y": 477.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "走る",
+   "reading": "はしる",
+   "bn_raw": "ǂ%ৌড়া=না",
+   "page": 10,
+   "y": 501.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "頭",
+   "reading": "あたま",
+   "bn_raw": "মা$া",
+   "page": 10,
+   "y": 525.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 16,
+   "lesson_title": "食べすぎないようにしています",
+   "word": "運動する",
+   "reading": "うんどうする",
+   "bn_raw": "ব্যায়াম করা",
+   "page": 10,
+   "y": 549.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "お父さん",
+   "reading": "おとうさん",
+   "bn_raw": "বাবা; অ=ন্যর বাবা=ক সম্মান ক=র বলা",
+   "page": 10,
+   "y": 599.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "弟",
+   "reading": "おとうと",
+   "bn_raw": "ǂছোট ভোই",
+   "page": 10,
+   "y": 623.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "お母さん",
+   "reading": "おかあさん",
+   "bn_raw": "মা; অ=ন্যর মা=ক সম্মান ক=র বলা",
+   "page": 10,
+   "y": 647.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "妹",
+   "reading": "いもうと",
+   "bn_raw": "ǂছোট ǂবান",
+   "page": 10,
+   "y": 671.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "兄",
+   "reading": "あに",
+   "bn_raw": "বড় ভোই; 7ন=জর বড় ভোই",
+   "page": 10,
+   "y": 695.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "夫",
+   "reading": "おっと",
+   "bn_raw": "স্বামী",
+   "page": 10,
+   "y": 719.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "お兄さん",
+   "reading": "おにいさん",
+   "bn_raw": "বড় ভোই; অ=ন্যর বড় ভোই",
+   "page": 10,
+   "y": 742.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "妻",
+   "reading": "つま",
+   "bn_raw": "স্ত্রী",
+   "page": 10,
+   "y": 766.8
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "姉",
+   "reading": "あね",
+   "bn_raw": "বড় ǂবান; 7ন=জর বড় ǂবান",
+   "page": 11,
+   "y": 69.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "両親",
+   "reading": "りょうしん",
+   "bn_raw": "বাবা-মা; 7পতা-মাতা",
+   "page": 11,
+   "y": 93.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 17,
+   "lesson_title": "兄がくれたお守りです",
+   "word": "お姉さん",
+   "reading": "おねえさん",
+   "bn_raw": "বড় ǂবান; অ=ন্যর বড় ǂবান",
+   "page": 11,
+   "y": 116.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "男の子",
+   "reading": "おとこのこ",
+   "bn_raw": "ǂছে=ল 7শশু",
+   "page": 11,
+   "y": 167.4
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "幸せ（な）",
+   "reading": "しあわせ（な）",
+   "bn_raw": "সুখী; সুখ",
+   "page": 11,
+   "y": 191.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "女の子",
+   "reading": "おんなのこ",
+   "bn_raw": "ǂম=য় 7শশু",
+   "page": 11,
+   "y": 215.1
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "生まれる",
+   "reading": "うまれる",
+   "bn_raw": "জন্ম ǂনওয়া",
+   "page": 11,
+   "y": 239.0
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "お祝い",
+   "reading": "おいわい",
+   "bn_raw": "শু=ভেচ্ছা; উ%্যাপ=নর উপহার",
+   "page": 11,
+   "y": 262.9
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "思う",
+   "reading": "おもう",
+   "bn_raw": "ম=ন করা; ভোবা",
+   "page": 11,
+   "y": 286.7
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "誕生日",
+   "reading": "たんじょうび",
+   "bn_raw": "জন্ম7%ন",
+   "page": 11,
+   "y": 310.6
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "選ぶ",
+   "reading": "えらぶ",
+   "bn_raw": "ǂব=ছে ǂনওয়া",
+   "page": 11,
+   "y": 334.5
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "結婚",
+   "reading": "けっこん",
+   "bn_raw": "7ব=য়",
+   "page": 11,
+   "y": 358.3
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "合格する",
+   "reading": "ごうかくする",
+   "bn_raw": "পরীক্ষিায় পাস করা; উত্তীণর্থ হওয়া",
+   "page": 11,
+   "y": 382.2
+  },
+  {
+   "book": "elementary1",
+   "lesson": 18,
+   "lesson_title": "何かプレゼントをあげませんか？",
+   "word": "時計",
+   "reading": "とけい",
+   "bn_raw": "ঘ7ড়",
+   "page": 11,
+   "y": 406.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 1,
+   "lesson_title": "先週、日本に来たばかりです",
+   "word": "山",
+   "reading": "やま",
+   "bn_raw": "পাহাড়",
+   "page": 11,
+   "y": 456.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 1,
+   "lesson_title": "先週、日本に来たばかりです",
+   "word": "客",
+   "reading": "きゃく",
+   "bn_raw": "অ7ত7$; গ্রাহক",
+   "page": 11,
+   "y": 480.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 1,
+   "lesson_title": "先週、日本に来たばかりです",
+   "word": "川",
+   "reading": "かわ",
+   "bn_raw": "ন%ী",
+   "page": 11,
+   "y": 504.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 1,
+   "lesson_title": "先週、日本に来たばかりです",
+   "word": "観光地",
+   "reading": "かんこうち",
+   "bn_raw": "পযর্থটনস্থল",
+   "page": 11,
+   "y": 528.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 1,
+   "lesson_title": "先週、日本に来たばかりです",
+   "word": "海",
+   "reading": "うみ",
+   "bn_raw": "সমুদ্র",
+   "page": 11,
+   "y": 552.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 1,
+   "lesson_title": "先週、日本に来たばかりです",
+   "word": "意味",
+   "reading": "いみ",
+   "bn_raw": "অ$র্থ; মা=ন",
+   "page": 11,
+   "y": 575.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 1,
+   "lesson_title": "先週、日本に来たばかりです",
+   "word": "島",
+   "reading": "しま",
+   "bn_raw": "দ্বীপ",
+   "page": 11,
+   "y": 599.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 1,
+   "lesson_title": "先週、日本に来たばかりです",
+   "word": "経験",
+   "reading": "けいけん",
+   "bn_raw": "অ7ভেজ্ঞতা",
+   "page": 11,
+   "y": 623.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 1,
+   "lesson_title": "先週、日本に来たばかりです",
+   "word": "森",
+   "reading": "もり",
+   "bn_raw": "বন",
+   "page": 11,
+   "y": 647.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "写真",
+   "reading": "しゃしん",
+   "bn_raw": "ছে7ব",
+   "page": 11,
+   "y": 698.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "長い",
+   "reading": "ながい",
+   "bn_raw": "লম্বা; %ীঘর্থ",
+   "page": 11,
+   "y": 721.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "歌",
+   "reading": "うた",
+   "bn_raw": "গান",
+   "page": 11,
+   "y": 745.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "短い",
+   "reading": "みじかい",
+   "bn_raw": "ǂছোট; সংǬক্ষিপ্ত",
+   "page": 11,
+   "y": 769.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "歌手",
+   "reading": "かしゅ",
+   "bn_raw": "গায়ক/গা7য়কা",
+   "page": 12,
+   "y": 69.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "着る",
+   "reading": "きる",
+   "bn_raw": "পরা; জামাকাপড় পরা",
+   "page": 12,
+   "y": 93.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "上手（な）",
+   "reading": "じょうず（な）",
+   "bn_raw": "%ক্ষি; ভো=লাভো=ব কর=ত পা=র",
+   "page": 12,
+   "y": 116.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "立つ",
+   "reading": "たつ",
+   "bn_raw": "%াাড়া=না",
+   "page": 12,
+   "y": 140.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "明るい",
+   "reading": "あかるい",
+   "bn_raw": "উজ্জ্বল; আ=লা7কত",
+   "page": 12,
+   "y": 164.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 2,
+   "lesson_title": "まじめそうな人ですね",
+   "word": "泣く",
+   "reading": "なく",
+   "bn_raw": "কাা%া",
+   "page": 12,
+   "y": 188.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "注文",
+   "reading": "ちゅうもん",
+   "bn_raw": "অডর্থার",
+   "page": 12,
+   "y": 239.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "ご飯",
+   "reading": "ごはん",
+   "bn_raw": "ভোত; খাবার",
+   "page": 12,
+   "y": 262.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "会計",
+   "reading": "かいけい",
+   "bn_raw": "7বল; 7হসাব ǂমটা=না",
+   "page": 12,
+   "y": 286.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "牛乳",
+   "reading": "ぎゅうにゅう",
+   "bn_raw": "গরুর %ুধ",
+   "page": 12,
+   "y": 310.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "予約",
+   "reading": "よやく",
+   "bn_raw": "আগাম বু7কং; সংরক্ষিণ",
+   "page": 12,
+   "y": 334.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "生",
+   "reading": "なま",
+   "bn_raw": "কাাচিা; তাজা",
+   "page": 12,
+   "y": 358.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "電話番号",
+   "reading": "でんわばんごう",
+   "bn_raw": "ǂফান নম্বর",
+   "page": 12,
+   "y": 382.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "禁煙",
+   "reading": "きんえん",
+   "bn_raw": "ধূমপান 7ন=ষধ",
+   "page": 12,
+   "y": 406.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "～様",
+   "reading": "～さま",
+   "bn_raw": "না=মর প=র সম্মানসূচিক স=ম্বাধন; জনাব/ম=হা%য়",
+   "page": 12,
+   "y": 429.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 3,
+   "lesson_title": "アレルギーがあるので、食べられないんです",
+   "word": "自由",
+   "reading": "じゆう",
+   "bn_raw": "স্বাধীনতা; স্বাধীন",
+   "page": 12,
+   "y": 453.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 4,
+   "lesson_title": "しょうゆをつけないで食べてください",
+   "word": "塩",
+   "reading": "しお",
+   "bn_raw": "লবণ",
+   "page": 12,
+   "y": 504.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 4,
+   "lesson_title": "しょうゆをつけないで食べてください",
+   "word": "満足（な）",
+   "reading": "まんぞく（な）",
+   "bn_raw": "সন্তুষ্ট",
+   "page": 12,
+   "y": 528.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 4,
+   "lesson_title": "しょうゆをつけないで食べてください",
+   "word": "油",
+   "reading": "あぶら",
+   "bn_raw": "ǂতল",
+   "page": 12,
+   "y": 552.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 4,
+   "lesson_title": "しょうゆをつけないで食べてください",
+   "word": "切る",
+   "reading": "きる",
+   "bn_raw": "কাটা",
+   "page": 12,
+   "y": 575.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 4,
+   "lesson_title": "しょうゆをつけないで食べてください",
+   "word": "量",
+   "reading": "りょう",
+   "bn_raw": "প7রমাণ",
+   "page": 12,
+   "y": 599.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 4,
+   "lesson_title": "しょうゆをつけないで食べてください",
+   "word": "焼く",
+   "reading": "やく",
+   "bn_raw": "ভোজা; আগু=ন ǂসাকা",
+   "page": 12,
+   "y": 623.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 4,
+   "lesson_title": "しょうゆをつけないで食べてください",
+   "word": "～方",
+   "reading": "～かた",
+   "bn_raw": "পদ্ধ7ত; করার উপায়",
+   "page": 12,
+   "y": 647.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 4,
+   "lesson_title": "しょうゆをつけないで食べてください",
+   "word": "入れる",
+   "reading": "いれる",
+   "bn_raw": "ǂঢাকা=না; ǂযাগ করা",
+   "page": 12,
+   "y": 671.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 4,
+   "lesson_title": "しょうゆをつけないで食べてください",
+   "word": "～屋",
+   "reading": "～や",
+   "bn_raw": "ǂ%াকান; ǂ%াকান%ার ǂবাঝা=ত ব্যবহৃত প্রত্যয়",
+   "page": 12,
+   "y": 695.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "自然",
+   "reading": "しぜん",
+   "bn_raw": "প্রকৃ7ত",
+   "page": 12,
+   "y": 745.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "東京",
+   "reading": "とうきょう",
+   "bn_raw": "ǂটা7কও",
+   "page": 12,
+   "y": 769.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "交通",
+   "reading": "こうつう",
+   "bn_raw": "যাতায়াত; প7রবহন",
+   "page": 13,
+   "y": 69.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "計画",
+   "reading": "けいかく",
+   "bn_raw": "প7রকল্পনা",
+   "page": 13,
+   "y": 93.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "船",
+   "reading": "ふね",
+   "bn_raw": "ǂনৌকা; জাহাজ",
+   "page": 13,
+   "y": 116.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "遊ぶ",
+   "reading": "あそぶ",
+   "bn_raw": "ǂখলা; আনন্দে ক=র সময় কাটা=না",
+   "page": 13,
+   "y": 140.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "自転車",
+   "reading": "じてんしゃ",
+   "bn_raw": "সাই=কল",
+   "page": 13,
+   "y": 164.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "調べる",
+   "reading": "しらべる",
+   "bn_raw": "ǂখাাজ ǂনওয়া; পরীক্ষিা ক=র ǂ%খা",
+   "page": 13,
+   "y": 188.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "旅館",
+   "reading": "りょかん",
+   "bn_raw": "জাপা7ন সরাইখানা",
+   "page": 13,
+   "y": 212.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 5,
+   "lesson_title": "早く予約したほうがいいですよ",
+   "word": "出発する",
+   "reading": "しゅっぱつする",
+   "bn_raw": "রওনা হওয়া",
+   "page": 13,
+   "y": 236.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "運転",
+   "reading": "うんてん",
+   "bn_raw": "গা7ড় চিালা=না",
+   "page": 13,
+   "y": 286.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "絵",
+   "reading": "え",
+   "bn_raw": "ছে7ব; 7চিত্র",
+   "page": 13,
+   "y": 310.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "事故",
+   "reading": "じこ",
+   "bn_raw": "%ুঘর্থটনা",
+   "page": 13,
+   "y": 334.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "空",
+   "reading": "そら",
+   "bn_raw": "আকাশ",
+   "page": 13,
+   "y": 358.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "故障",
+   "reading": "こしょう",
+   "bn_raw": "যাǬন্ত্রিক ত্রুটি; নষ্ট হওয়া",
+   "page": 13,
+   "y": 382.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "泳ぐ",
+   "reading": "およぐ",
+   "bn_raw": "সাাতার কাটা",
+   "page": 13,
+   "y": 406.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "指定席",
+   "reading": "していせき",
+   "bn_raw": "সংরǬক্ষিত আসন",
+   "page": 13,
+   "y": 429.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "光る",
+   "reading": "ひかる",
+   "bn_raw": "আ=লা ǂ%ওয়া; ঝলমল করা",
+   "page": 13,
+   "y": 453.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "週末",
+   "reading": "しゅうまつ",
+   "bn_raw": "সপ্তাহান্ত",
+   "page": 13,
+   "y": 477.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 6,
+   "lesson_title": "いろいろなところに行けて、よかったです",
+   "word": "到着する",
+   "reading": "とうちゃくする",
+   "bn_raw": "ǂপৌঁছো=না",
+   "page": 13,
+   "y": 501.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "お知らせ",
+   "reading": "おしらせ",
+   "bn_raw": "7বজ্ঞ7প্ত; খবর",
+   "page": 13,
+   "y": 552.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "中止",
+   "reading": "ちゅうし",
+   "bn_raw": "বা7তল; স্থ7গত",
+   "page": 13,
+   "y": 575.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "今月",
+   "reading": "こんげつ",
+   "bn_raw": "এই মাস",
+   "page": 13,
+   "y": 599.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "条件",
+   "reading": "じょうけん",
+   "bn_raw": "শতর্থ",
+   "page": 13,
+   "y": 623.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "水道",
+   "reading": "すいどう",
+   "bn_raw": "পা7নর সরবরাহ ব্যবস্থা",
+   "page": 13,
+   "y": 647.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "～以上",
+   "reading": "～いじょう",
+   "bn_raw": "～ বা তার ǂব7শ",
+   "page": 13,
+   "y": 671.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "工事",
+   "reading": "こうじ",
+   "bn_raw": "7নমর্থাণ/ǂমরাম=তর কাজ",
+   "page": 13,
+   "y": 695.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "開く",
+   "reading": "ひらく",
+   "bn_raw": "ǂখালা; অনুষ্ঠান বা কাযর্থক্রম আ=য়াজন করা",
+   "page": 13,
+   "y": 719.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "広場",
+   "reading": "ひろば",
+   "bn_raw": "ǂখালা চিত্বর",
+   "page": 13,
+   "y": 742.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "生産する",
+   "reading": "せいさんする",
+   "bn_raw": "উৎপা%ন করা",
+   "page": 13,
+   "y": 766.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 7,
+   "lesson_title": "雨が降ったら、ホールでやります",
+   "word": "場合",
+   "reading": "ばあい",
+   "bn_raw": "ǂক্ষিত্র; প7রǬস্থ7ত",
+   "page": 14,
+   "y": 69.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 8,
+   "lesson_title": "屋台はどこかわかりますか？",
+   "word": "来年",
+   "reading": "らいねん",
+   "bn_raw": "আগামী বছের",
+   "page": 14,
+   "y": 119.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 8,
+   "lesson_title": "屋台はどこかわかりますか？",
+   "word": "禁止",
+   "reading": "きんし",
+   "bn_raw": "7ন=ষধ",
+   "page": 14,
+   "y": 143.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 8,
+   "lesson_title": "屋台はどこかわかりますか？",
+   "word": "会場",
+   "reading": "かいじょう",
+   "bn_raw": "অনুষ্ঠানস্থল; ǂভেনু্য",
+   "page": 14,
+   "y": 167.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 8,
+   "lesson_title": "屋台はどこかわかりますか？",
+   "word": "紙",
+   "reading": "かみ",
+   "bn_raw": "কাগজ",
+   "page": 14,
+   "y": 191.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 8,
+   "lesson_title": "屋台はどこかわかりますか？",
+   "word": "世界",
+   "reading": "せかい",
+   "bn_raw": "7বশ্ব; পৃ7$বী",
+   "page": 14,
+   "y": 215.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 8,
+   "lesson_title": "屋台はどこかわかりますか？",
+   "word": "始まる",
+   "reading": "はじまる",
+   "bn_raw": "শুরু হওয়া",
+   "page": 14,
+   "y": 239.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 8,
+   "lesson_title": "屋台はどこかわかりますか？",
+   "word": "体験",
+   "reading": "たいけん",
+   "bn_raw": "অ7ভেজ্ঞতা; 7ন=জ ক=র ǂ%খা",
+   "page": 14,
+   "y": 262.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 8,
+   "lesson_title": "屋台はどこかわかりますか？",
+   "word": "申し込む",
+   "reading": "もうしこむ",
+   "bn_raw": "আ=ব%ন করা; নাম ǂলখা=না",
+   "page": 14,
+   "y": 286.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 8,
+   "lesson_title": "屋台はどこかわかりますか？",
+   "word": "国際交流",
+   "reading": "こくさいこうりゅう",
+   "bn_raw": "আন্তজর্থা7তক সাংস্কৃ7তক 7ব7নময়",
+   "page": 14,
+   "y": 310.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "今年",
+   "reading": "ことし",
+   "bn_raw": "এ বছের",
+   "page": 14,
+   "y": 361.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "正月",
+   "reading": "しょうがつ",
+   "bn_raw": "নববষর্থ; নতুন বছে=রর সময়",
+   "page": 14,
+   "y": 385.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "昨年",
+   "reading": "さくねん",
+   "bn_raw": "গত বছের",
+   "page": 14,
+   "y": 408.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "～式",
+   "reading": "～しき",
+   "bn_raw": "～ পদ্ধ7ত; ～ধর=নর অনুষ্ঠান",
+   "page": 14,
+   "y": 432.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "毎年",
+   "reading": "まいとし",
+   "bn_raw": "প্র7ত বছের",
+   "page": 14,
+   "y": 456.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "大人",
+   "reading": "おとな",
+   "bn_raw": "প্রাপ্তবয়স্ক",
+   "page": 14,
+   "y": 480.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "文化",
+   "reading": "ぶんか",
+   "bn_raw": "সংস্কৃ7ত",
+   "page": 14,
+   "y": 504.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "米",
+   "reading": "こめ",
+   "bn_raw": "চিাল",
+   "page": 14,
+   "y": 528.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "祭り",
+   "reading": "まつり",
+   "bn_raw": "উৎসব",
+   "page": 14,
+   "y": 552.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 9,
+   "lesson_title": "成人の日は、何をするんですか？",
+   "word": "特別（な）",
+   "reading": "とくべつ（な）",
+   "bn_raw": "7ব=শষ",
+   "page": 14,
+   "y": 575.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "服",
+   "reading": "ふく",
+   "bn_raw": "ǂপাশাক",
+   "page": 14,
+   "y": 626.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "習慣",
+   "reading": "しゅうかん",
+   "bn_raw": "অভে্যাস; রী7ত",
+   "page": 14,
+   "y": 650.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "袋",
+   "reading": "ふくろ",
+   "bn_raw": "$=ল; ব্যাগ",
+   "page": 14,
+   "y": 674.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "普通",
+   "reading": "ふつう",
+   "bn_raw": "সাধারণ",
+   "page": 14,
+   "y": 698.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "自分",
+   "reading": "じぶん",
+   "bn_raw": "7ন=জ; 7ন=জর",
+   "page": 14,
+   "y": 721.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "暗い",
+   "reading": "くらい",
+   "bn_raw": "অন্ধকার",
+   "page": 14,
+   "y": 745.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "店長",
+   "reading": "てんちょう",
+   "bn_raw": "ǂ%াকা=নর ব্যবস্থাপক",
+   "page": 14,
+   "y": 769.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "怒る",
+   "reading": "おこる",
+   "bn_raw": "রাগ করা",
+   "page": 15,
+   "y": 69.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "全員",
+   "reading": "ぜんいん",
+   "bn_raw": "সবাই; সকল স%স্য",
+   "page": 15,
+   "y": 93.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 10,
+   "lesson_title": "どんな服を着て行けばいいですか？",
+   "word": "入院する",
+   "reading": "にゅういんする",
+   "bn_raw": "হাসপাতা=ল ভে7তর্থ হওয়া",
+   "page": 15,
+   "y": 116.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "色",
+   "reading": "いろ",
+   "bn_raw": "রং",
+   "page": 15,
+   "y": 167.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "女性",
+   "reading": "じょせい",
+   "bn_raw": "নারী",
+   "page": 15,
+   "y": 191.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "赤",
+   "reading": "あか",
+   "bn_raw": "লাল",
+   "page": 15,
+   "y": 215.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "男性",
+   "reading": "だんせい",
+   "bn_raw": "পুরুষ",
+   "page": 15,
+   "y": 239.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "青",
+   "reading": "あお",
+   "bn_raw": "নীল",
+   "page": 15,
+   "y": 262.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "急に",
+   "reading": "きゅうに",
+   "bn_raw": "হঠাৎ",
+   "page": 15,
+   "y": 286.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "黒",
+   "reading": "くろ",
+   "bn_raw": "কা=লা",
+   "page": 15,
+   "y": 310.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "営業する",
+   "reading": "えいぎょうする",
+   "bn_raw": "ব্যবসা চিালা=না; ǂ%াকান ǂখালা রাখা",
+   "page": 15,
+   "y": 334.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "白",
+   "reading": "しろ",
+   "bn_raw": "সা%া",
+   "page": 15,
+   "y": 358.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 11,
+   "lesson_title": "ポイントカードを忘れてしまいました",
+   "word": "案内する",
+   "reading": "あんないする",
+   "bn_raw": "প$ ǂ%খা=না; 7ন=%র্থশনা ǂ%ওয়া",
+   "page": 15,
+   "y": 382.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "商品",
+   "reading": "しょうひん",
+   "bn_raw": "পণ্য",
+   "page": 15,
+   "y": 432.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "店員",
+   "reading": "てんいん",
+   "bn_raw": "ǂ%াকা=নর কমর্থচিারী",
+   "page": 15,
+   "y": 456.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "値段",
+   "reading": "ねだん",
+   "bn_raw": "%াম",
+   "page": 15,
+   "y": 480.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "親切（な）",
+   "reading": "しんせつ（な）",
+   "bn_raw": "%য়ালু; সহায়ক",
+   "page": 15,
+   "y": 504.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "価格",
+   "reading": "かかく",
+   "bn_raw": "মূল্য; %াম",
+   "page": 15,
+   "y": 528.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "重い",
+   "reading": "おもい",
+   "bn_raw": "ভোরী",
+   "page": 15,
+   "y": 552.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "消費税",
+   "reading": "しょうひぜい",
+   "bn_raw": "ǂভোগকর",
+   "page": 15,
+   "y": 575.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "軽い",
+   "reading": "かるい",
+   "bn_raw": "হালকা",
+   "page": 15,
+   "y": 599.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "税別",
+   "reading": "ぜいべつ",
+   "bn_raw": "কর বা=%",
+   "page": 15,
+   "y": 623.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 12,
+   "lesson_title": "この掃除機は軽くて動かしやすいですよ",
+   "word": "変わる",
+   "reading": "かわる",
+   "bn_raw": "প7রব7তর্থত হওয়া",
+   "page": 15,
+   "y": 647.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "市",
+   "reading": "し",
+   "bn_raw": "শহর; ǂপৌরসভো",
+   "page": 15,
+   "y": 698.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "借りる",
+   "reading": "かりる",
+   "bn_raw": "ধার ǂনওয়া; ভোড়া ǂনওয়া",
+   "page": 15,
+   "y": 721.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "料金",
+   "reading": "りょうきん",
+   "bn_raw": "Ǭফ; ভোড়া/চিাজর্থ",
+   "page": 15,
+   "y": 745.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "返す",
+   "reading": "かえす",
+   "bn_raw": "ǂফরত ǂ%ওয়া",
+   "page": 15,
+   "y": 769.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "図書館",
+   "reading": "としょかん",
+   "bn_raw": "গ্রন্থাগার; লাই=ব্রে7র",
+   "page": 16,
+   "y": 69.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "開く",
+   "reading": "あく",
+   "bn_raw": "ǂখালা $াকা; খু=ল যাওয়া (ǂ%াকান/লাই=ব্রে7র ইত্যা7%)",
+   "page": 16,
+   "y": 93.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "道具",
+   "reading": "どうぐ",
+   "bn_raw": "সরঞ্জাম; যন্ত্রিপা7ত",
+   "page": 16,
+   "y": 116.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "閉まる",
+   "reading": "しまる",
+   "bn_raw": "বন্ধ হওয়া",
+   "page": 16,
+   "y": 140.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "～点",
+   "reading": "～てん",
+   "bn_raw": "প=য়ন্টি; Ǭজ7নস গণনার প্রত্যয়",
+   "page": 16,
+   "y": 164.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "利用する",
+   "reading": "りようする",
+   "bn_raw": "ব্যবহার করা",
+   "page": 16,
+   "y": 188.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 13,
+   "lesson_title": "いろいろな資料を展示してあります",
+   "word": "必要（な）",
+   "reading": "ひつよう（な）",
+   "bn_raw": "প্র=য়াজনীয়",
+   "page": 16,
+   "y": 212.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "外国",
+   "reading": "がいこく",
+   "bn_raw": "7ব=%শ",
+   "page": 16,
+   "y": 262.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "郵便局",
+   "reading": "ゆうびんきょく",
+   "bn_raw": "ডাকঘর",
+   "page": 16,
+   "y": 286.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "情報",
+   "reading": "じょうほう",
+   "bn_raw": "ত$্য",
+   "page": 16,
+   "y": 310.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "近所",
+   "reading": "きんじょ",
+   "bn_raw": "আ=শপা=শর এলাকা",
+   "page": 16,
+   "y": 334.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "相談",
+   "reading": "そうだん",
+   "bn_raw": "পরামশর্থ; আ=লাচিনা",
+   "page": 16,
+   "y": 358.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "自動",
+   "reading": "じどう",
+   "bn_raw": "স্বয়ংǬক্রয়",
+   "page": 16,
+   "y": 382.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "質問",
+   "reading": "しつもん",
+   "bn_raw": "প্রশ্ন",
+   "page": 16,
+   "y": 406.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "洗う",
+   "reading": "あらう",
+   "bn_raw": "ǂধায়া",
+   "page": 16,
+   "y": 429.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "窓口",
+   "reading": "まどぐち",
+   "bn_raw": "ǂসবা কাউন্টিার",
+   "page": 16,
+   "y": 453.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 14,
+   "lesson_title": "前髪は、もう少し短く切ってもらえますか？",
+   "word": "入力する",
+   "reading": "にゅうりょくする",
+   "bn_raw": "ত$্য প্র=বশ করা=না; ইনপুট করা",
+   "page": 16,
+   "y": 477.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "温度",
+   "reading": "おんど",
+   "bn_raw": "তাপমাত্রা",
+   "page": 16,
+   "y": 528.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "出す",
+   "reading": "だす",
+   "bn_raw": "ǂবর করা; জমা ǂ%ওয়া",
+   "page": 16,
+   "y": 552.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "危険",
+   "reading": "きけん",
+   "bn_raw": "7বপ%; 7বপজ্জনক",
+   "page": 16,
+   "y": 575.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "分ける",
+   "reading": "わける",
+   "bn_raw": "ভোগ করা; আলা%া করা",
+   "page": 16,
+   "y": 599.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "～種類",
+   "reading": "～しゅるい",
+   "bn_raw": "～ ধর=নর; প্রকার গণনা",
+   "page": 16,
+   "y": 623.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "燃える",
+   "reading": "もえる",
+   "bn_raw": "জ্বলা; পু=ড় যাওয়া",
+   "page": 16,
+   "y": 647.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "消す",
+   "reading": "けす",
+   "bn_raw": "ǂনভো=না; মু=ছে ǂফলা",
+   "page": 16,
+   "y": 671.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "決める",
+   "reading": "きめる",
+   "bn_raw": "7সদ্ধান্ত ǂনওয়া; ঠিক করা",
+   "page": 16,
+   "y": 695.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "捨てる",
+   "reading": "すてる",
+   "bn_raw": "ǂফ=ল ǂ%ওয়া",
+   "page": 16,
+   "y": 719.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 15,
+   "lesson_title": "会議室の電気がついたままでした",
+   "word": "設定する",
+   "reading": "せっていする",
+   "bn_raw": "ǂসট করা; 7নধর্থারণ করা",
+   "page": 16,
+   "y": 742.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 16,
+   "lesson_title": "地震が来ても、あわてて動かないでください",
+   "word": "地震",
+   "reading": "じしん",
+   "bn_raw": "ভেূ7মকম্প",
+   "page": 17,
+   "y": 69.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 16,
+   "lesson_title": "地震が来ても、あわてて動かないでください",
+   "word": "大切（な）",
+   "reading": "たいせつ（な）",
+   "bn_raw": "গুরুত্বপূণর্থ; য=ত্নের",
+   "page": 17,
+   "y": 93.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 16,
+   "lesson_title": "地震が来ても、あわてて動かないでください",
+   "word": "台風",
+   "reading": "たいふう",
+   "bn_raw": "টাইফুন; প্রবল ঘূ7ণর্থঝড়",
+   "page": 17,
+   "y": 117.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 16,
+   "lesson_title": "地震が来ても、あわてて動かないでください",
+   "word": "心配（な）",
+   "reading": "しんぱい（な）",
+   "bn_raw": "7চিǬন্তত; উ7দ্বগ্ন",
+   "page": 17,
+   "y": 140.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 16,
+   "lesson_title": "地震が来ても、あわてて動かないでください",
+   "word": "外",
+   "reading": "そと",
+   "bn_raw": "বাই=র",
+   "page": 17,
+   "y": 164.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 16,
+   "lesson_title": "地震が来ても、あわてて動かないでください",
+   "word": "集まる",
+   "reading": "あつまる",
+   "bn_raw": "জ=ড়া হওয়া",
+   "page": 17,
+   "y": 188.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 16,
+   "lesson_title": "地震が来ても、あわてて動かないでください",
+   "word": "声",
+   "reading": "こえ",
+   "bn_raw": "কণ্ঠস্বর",
+   "page": 17,
+   "y": 212.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 16,
+   "lesson_title": "地震が来ても、あわてて動かないでください",
+   "word": "進む",
+   "reading": "すすむ",
+   "bn_raw": "এ7গ=য় যাওয়া",
+   "page": 17,
+   "y": 236.3
+  },
+  {
+   "book": "elementary2",
+   "lesson": 16,
+   "lesson_title": "地震が来ても、あわてて動かないでください",
+   "word": "危ない",
+   "reading": "あぶない",
+   "bn_raw": "7বপজ্জনক",
+   "page": 17,
+   "y": 260.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "最近",
+   "reading": "さいきん",
+   "bn_raw": "সম্প্র7ত; ই%ানীং",
+   "page": 17,
+   "y": 310.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "違う",
+   "reading": "ちがう",
+   "bn_raw": "7ভেন্ন হওয়া; আলা%া",
+   "page": 17,
+   "y": 334.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "授業",
+   "reading": "じゅぎょう",
+   "bn_raw": "ক্লাস; পাঠ",
+   "page": 17,
+   "y": 358.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "慣れる",
+   "reading": "なれる",
+   "bn_raw": "অভে্যস্ত হওয়া",
+   "page": 17,
+   "y": 382.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "問題",
+   "reading": "もんだい",
+   "bn_raw": "সমস্যা; প্রশ্ন",
+   "page": 17,
+   "y": 406.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "増える",
+   "reading": "ふえる",
+   "bn_raw": "ǂব=ড় যাওয়া",
+   "page": 17,
+   "y": 430.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "大変（な）",
+   "reading": "たいへん（な）",
+   "bn_raw": "কঠিন; ভেীষণ",
+   "page": 17,
+   "y": 453.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "笑う",
+   "reading": "わらう",
+   "bn_raw": "হাসা",
+   "page": 17,
+   "y": 477.7
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "困る",
+   "reading": "こまる",
+   "bn_raw": "সমস্যায় পড়া",
+   "page": 17,
+   "y": 501.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 17,
+   "lesson_title": "日本語が前より話せるようになりました",
+   "word": "苦労する",
+   "reading": "くろうする",
+   "bn_raw": "কষ্ট করা; প7রশ্র=ম ǂভোগা",
+   "page": 17,
+   "y": 525.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "希望",
+   "reading": "きぼう",
+   "bn_raw": "আশা; ইচ্ছা",
+   "page": 17,
+   "y": 575.9
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "続ける",
+   "reading": "つづける",
+   "bn_raw": "চিাǬল=য় যাওয়া",
+   "page": 17,
+   "y": 599.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "募集",
+   "reading": "ぼしゅう",
+   "bn_raw": "7ন=য়াগ; আ=ব%ন আহ্বান",
+   "page": 17,
+   "y": 623.6
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "考える",
+   "reading": "かんがえる",
+   "bn_raw": "7চিন্তা করা",
+   "page": 17,
+   "y": 647.5
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "特に",
+   "reading": "とくに",
+   "bn_raw": "7ব=শষ ক=র",
+   "page": 17,
+   "y": 671.4
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "役に立つ",
+   "reading": "やくにたつ",
+   "bn_raw": "কা=জ লাগা; উপকারী হওয়া",
+   "page": 17,
+   "y": 695.2
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "住む",
+   "reading": "すむ",
+   "bn_raw": "বাস করা",
+   "page": 17,
+   "y": 719.1
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "卒業する",
+   "reading": "そつぎょうする",
+   "bn_raw": "পড়া=শানা ǂশষ করা; স্নাতক হওয়া",
+   "page": 17,
+   "y": 743.0
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "建てる",
+   "reading": "たてる",
+   "bn_raw": "7নমর্থাণ করা",
+   "page": 17,
+   "y": 766.8
+  },
+  {
+   "book": "elementary2",
+   "lesson": 18,
+   "lesson_title": "将来、自分の会社を作ろうと思います",
+   "word": "留学する",
+   "reading": "りゅうがくする",
+   "bn_raw": "7ব=%=শ পড়=ত যাওয়া",
+   "page": 18,
+   "y": 69.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "野球",
+   "reading": "やきゅう",
+   "bn_raw": "ǂবসবল",
+   "page": 18,
+   "y": 119.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "弱い",
+   "reading": "よわい",
+   "bn_raw": "%ুবর্থল",
+   "page": 18,
+   "y": 143.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "応援",
+   "reading": "おうえん",
+   "bn_raw": "সম$র্থন; উৎসাহ ǂ%ওয়া",
+   "page": 18,
+   "y": 167.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "勝つ",
+   "reading": "かつ",
+   "bn_raw": "ǂজতা",
+   "page": 18,
+   "y": 191.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "約束",
+   "reading": "やくそく",
+   "bn_raw": "প্র7তশ্রু7ত; ঠিক করা সাক্ষিা=তর সময়",
+   "page": 18,
+   "y": 215.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "負ける",
+   "reading": "まける",
+   "bn_raw": "ǂহ=র যাওয়া",
+   "page": 18,
+   "y": 239.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "得意（な）",
+   "reading": "とくい（な）",
+   "bn_raw": "%ক্ষি; পার%শর্থী",
+   "page": 18,
+   "y": 262.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "誘う",
+   "reading": "さそう",
+   "bn_raw": "আমন্ত্রিণ করা",
+   "page": 18,
+   "y": 286.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "伝統的（な）",
+   "reading": "でんとうてき（な）",
+   "bn_raw": "ঐ7তহ্যবাহী",
+   "page": 18,
+   "y": 310.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 1,
+   "lesson_title": "フットサルって、何でしたっけ？",
+   "word": "座る",
+   "reading": "すわる",
+   "bn_raw": "বসা",
+   "page": 18,
+   "y": 334.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "共感",
+   "reading": "きょうかん",
+   "bn_raw": "সহম7মর্থতা; একমত হ=য় অনুভেব করা",
+   "page": 18,
+   "y": 385.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "お腹",
+   "reading": "おなか",
+   "bn_raw": "ǂপট",
+   "page": 18,
+   "y": 408.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "主人公",
+   "reading": "しゅじんこう",
+   "bn_raw": "প্রধান চি7রত্র",
+   "page": 18,
+   "y": 432.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "深み",
+   "reading": "ふかみ",
+   "bn_raw": "গভেীরতা",
+   "page": 18,
+   "y": 456.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "映像",
+   "reading": "えいぞう",
+   "bn_raw": "%ৃশ্য; 7ভে7ডও 7চিত্র",
+   "page": 18,
+   "y": 480.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "演じる",
+   "reading": "えんじる",
+   "bn_raw": "অ7ভেনয় করা",
+   "page": 18,
+   "y": 504.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "原作",
+   "reading": "げんさく",
+   "bn_raw": "মূল রচিনা; মূল কাজ",
+   "page": 18,
+   "y": 528.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "探す",
+   "reading": "さがす",
+   "bn_raw": "ǂখাাজা",
+   "page": 18,
+   "y": 552.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "歌詞",
+   "reading": "かし",
+   "bn_raw": "গা=নর ক$া",
+   "page": 18,
+   "y": 575.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "死ぬ",
+   "reading": "しぬ",
+   "bn_raw": "মারা যাওয়া",
+   "page": 18,
+   "y": 599.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 2,
+   "lesson_title": "ドラマを見るのがいちばん好きです",
+   "word": "俳優",
+   "reading": "はいゆう",
+   "bn_raw": "অ7ভে=নতা",
+   "page": 18,
+   "y": 623.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 3,
+   "lesson_title": "引っ越しの準備はどうですか？",
+   "word": "引っ越し",
+   "reading": "ひっこし",
+   "bn_raw": "বাসা ব%ল",
+   "page": 18,
+   "y": 674.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 3,
+   "lesson_title": "引っ越しの準備はどうですか？",
+   "word": "冷蔵庫",
+   "reading": "れいぞうこ",
+   "bn_raw": "Ǭফ্রিজ",
+   "page": 18,
+   "y": 698.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 3,
+   "lesson_title": "引っ越しの準備はどうですか？",
+   "word": "家賃",
+   "reading": "やちん",
+   "bn_raw": "বা7ড়ভোড়া",
+   "page": 18,
+   "y": 721.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 3,
+   "lesson_title": "引っ越しの準備はどうですか？",
+   "word": "電子レンジ",
+   "reading": "でんしレンジ",
+   "bn_raw": "মাই=ক্রাও=য়ভে ও=ভেন",
+   "page": 18,
+   "y": 745.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 3,
+   "lesson_title": "引っ越しの準備はどうですか？",
+   "word": "築～年",
+   "reading": "ちく～ねん",
+   "bn_raw": "7নমর্থা=ণর পর ～ বছের",
+   "page": 18,
+   "y": 769.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 3,
+   "lesson_title": "引っ越しの準備はどうですか？",
+   "word": "～県",
+   "reading": "～けん",
+   "bn_raw": "জাপা=নর Ǭপ্র=ফকচিার; প্রশাস7নক অঞ্চল",
+   "page": 19,
+   "y": 69.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 3,
+   "lesson_title": "引っ越しの準備はどうですか？",
+   "word": "住宅地",
+   "reading": "じゅうたくち",
+   "bn_raw": "আবা7সক এলাকা",
+   "page": 19,
+   "y": 93.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 3,
+   "lesson_title": "引っ越しの準備はどうですか？",
+   "word": "～区",
+   "reading": "～く",
+   "bn_raw": "ওয়াডর্থ; প্রশাস7নক এলাকা",
+   "page": 19,
+   "y": 116.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 3,
+   "lesson_title": "引っ越しの準備はどうですか？",
+   "word": "荷物",
+   "reading": "にもつ",
+   "bn_raw": "মালপত্র; লা=গজ",
+   "page": 19,
+   "y": 140.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "洗面台",
+   "reading": "せんめんだい",
+   "bn_raw": "মুখ ǂধায়ার ǂব7সন",
+   "page": 19,
+   "y": 191.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "通勤",
+   "reading": "つうきん",
+   "bn_raw": "কা=জ যাতায়াত",
+   "page": 19,
+   "y": 215.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "洗濯機",
+   "reading": "せんたくき",
+   "bn_raw": "ওয়া7শং ǂম7শন",
+   "page": 19,
+   "y": 239.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "バス停",
+   "reading": "バスてい",
+   "bn_raw": "বাসস্টেপ",
+   "page": 19,
+   "y": 262.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "換気扇",
+   "reading": "かんきせん",
+   "bn_raw": "বাতাস ǂবর করার পাখা; এক্সহস্টে ফ্যান",
+   "page": 19,
+   "y": 286.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "田んぼ",
+   "reading": "たんぼ",
+   "bn_raw": "ধান=ক্ষিত",
+   "page": 19,
+   "y": 310.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "一戸建て",
+   "reading": "いっこだて",
+   "bn_raw": "একক স্বতন্ত্রি বা7ড়",
+   "page": 19,
+   "y": 334.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "林",
+   "reading": "はやし",
+   "bn_raw": "ǂছোট বন; গাছেপালার ǂঝাপ",
+   "page": 19,
+   "y": 358.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "庭",
+   "reading": "にわ",
+   "bn_raw": "বাগান; উঠান",
+   "page": 19,
+   "y": 382.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 4,
+   "lesson_title": "エアコンが壊れたみたいなんですが…",
+   "word": "鳥",
+   "reading": "とり",
+   "bn_raw": "পা7খ",
+   "page": 19,
+   "y": 406.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "注文履歴",
+   "reading": "ちゅうもんりれき",
+   "bn_raw": "অডর্থা=রর ই7তহাস",
+   "page": 19,
+   "y": 456.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "送信する",
+   "reading": "そうしんする",
+   "bn_raw": "পাঠা=না; ǂসন্ড করা",
+   "page": 19,
+   "y": 480.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "持ち帰り",
+   "reading": "もちかえり",
+   "bn_raw": "স=ঙ্গ 7ন=য় যাওয়ার জন্য; ǂটকঅ্যাও=য়",
+   "page": 19,
+   "y": 504.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "混ぜる",
+   "reading": "まぜる",
+   "bn_raw": "ǂমশা=না",
+   "page": 19,
+   "y": 528.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "税込",
+   "reading": "ぜいこみ",
+   "bn_raw": "করসহ",
+   "page": 19,
+   "y": 552.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "固める",
+   "reading": "かためる",
+   "bn_raw": "শক্তি করা; জমাট বাাধা=না",
+   "page": 19,
+   "y": 575.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "大盛り",
+   "reading": "おおもり",
+   "bn_raw": "বড় প7র=বশন; অ7ত7রক্তি বড় প7রমাণ",
+   "page": 19,
+   "y": 599.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "丸める",
+   "reading": "まるめる",
+   "bn_raw": "ǂগাল করা",
+   "page": 19,
+   "y": 623.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "麺",
+   "reading": "めん",
+   "bn_raw": "নুডলস",
+   "page": 19,
+   "y": 647.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 5,
+   "lesson_title": "どんなお店がいいですか？",
+   "word": "煮る",
+   "reading": "にる",
+   "bn_raw": "ǂসদ্ধ করা; ǂঝা=ল রান্না করা",
+   "page": 19,
+   "y": 671.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "冷凍食品",
+   "reading": "れいとうしょくひん",
+   "bn_raw": "7হমা7য়ত খাবার",
+   "page": 19,
+   "y": 721.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "栄養",
+   "reading": "えいよう",
+   "bn_raw": "পুষ্টি",
+   "page": 19,
+   "y": 745.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "果物",
+   "reading": "くだもの",
+   "bn_raw": "ফল",
+   "page": 19,
+   "y": 769.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "鍋",
+   "reading": "なべ",
+   "bn_raw": "হাা7ড়; রান্নার পাত্র",
+   "page": 20,
+   "y": 69.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "農家",
+   "reading": "のうか",
+   "bn_raw": "কৃষক; কৃ7ষ প7রবার",
+   "page": 20,
+   "y": 93.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "調味料",
+   "reading": "ちょうみりょう",
+   "bn_raw": "মসলা; রান্নার স্বা%বধর্থক উপকরণ",
+   "page": 20,
+   "y": 116.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "直接",
+   "reading": "ちょくせつ",
+   "bn_raw": "সরাস7র",
+   "page": 20,
+   "y": 140.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "新鮮（な）",
+   "reading": "しんせん（な）",
+   "bn_raw": "টাটকা; স=তজ",
+   "page": 20,
+   "y": 164.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "健康",
+   "reading": "けんこう",
+   "bn_raw": "স্বাস্থ্য",
+   "page": 20,
+   "y": 188.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 6,
+   "lesson_title": "毎日、自炊してます",
+   "word": "頼む",
+   "reading": "たのむ",
+   "bn_raw": "অনু=রাধ করা; অডর্থার করা",
+   "page": 20,
+   "y": 212.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "自己紹介",
+   "reading": "じこしょうかい",
+   "bn_raw": "আত্মপ7রচিয়",
+   "page": 20,
+   "y": 262.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "掲示板",
+   "reading": "けいじばん",
+   "bn_raw": "ǂনাটিশ ǂবাডর্থ",
+   "page": 20,
+   "y": 286.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "興味",
+   "reading": "きょうみ",
+   "bn_raw": "আগ্রহ",
+   "page": 20,
+   "y": 310.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "掃除",
+   "reading": "そうじ",
+   "bn_raw": "প7রষ্কার করা; প7রচ্ছন্নতা",
+   "page": 20,
+   "y": 334.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "仲間",
+   "reading": "なかま",
+   "bn_raw": "সঙ্গী; %=লর স%স্য",
+   "page": 20,
+   "y": 358.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "次",
+   "reading": "つぎ",
+   "bn_raw": "পরবতর্থী",
+   "page": 20,
+   "y": 382.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "子育て",
+   "reading": "こそだて",
+   "bn_raw": "সন্তান লালন-পালন",
+   "page": 20,
+   "y": 406.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "簡単（な）",
+   "reading": "かんたん（な）",
+   "bn_raw": "সহজ",
+   "page": 20,
+   "y": 429.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "児童館",
+   "reading": "じどうかん",
+   "bn_raw": "7শশু=%র ǂকন্দ্র",
+   "page": 20,
+   "y": 453.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 7,
+   "lesson_title": "たくさんの人と友だちになれればと思っています",
+   "word": "植える",
+   "reading": "うえる",
+   "bn_raw": "ǂরাপণ করা",
+   "page": 20,
+   "y": 477.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "第一印象",
+   "reading": "だいいちいんしょう",
+   "bn_raw": "প্র$ম ধারণা",
+   "page": 20,
+   "y": 528.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "清潔（な）",
+   "reading": "せいけつ（な）",
+   "bn_raw": "প7রষ্কার-প7রচ্ছন্ন",
+   "page": 20,
+   "y": 552.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "関心",
+   "reading": "かんしん",
+   "bn_raw": "আগ্রহ; ম=না=যাগ",
+   "page": 20,
+   "y": 575.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "効果的（な）",
+   "reading": "こうかてき（な）",
+   "bn_raw": "কাযর্থকর",
+   "page": 20,
+   "y": 599.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "背筋",
+   "reading": "せすじ",
+   "bn_raw": "7প=ঠর ǂসাজা ǂরখা; ǂমরু%=ণ্ডর ǂপ7শ",
+   "page": 20,
+   "y": 623.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "伸ばす",
+   "reading": "のばす",
+   "bn_raw": "প্রসা7রত করা; ǂসাজা করা",
+   "page": 20,
+   "y": 647.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "逆",
+   "reading": "ぎゃく",
+   "bn_raw": "উ=ল্টা; 7বপরীত",
+   "page": 20,
+   "y": 671.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "与える",
+   "reading": "あたえる",
+   "bn_raw": "ǂ%ওয়া; প্র%ান করা",
+   "page": 20,
+   "y": 695.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "この辺",
+   "reading": "このへん",
+   "bn_raw": "এই আ=শপা=শ",
+   "page": 20,
+   "y": 719.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 8,
+   "lesson_title": "隣、いいですか？",
+   "word": "整う",
+   "reading": "ととのう",
+   "bn_raw": "ǂগাছো=না/সুশৃঙ্খল হওয়া",
+   "page": 20,
+   "y": 742.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "方言",
+   "reading": "ほうげん",
+   "bn_raw": "উপভোষা",
+   "page": 21,
+   "y": 69.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "介護",
+   "reading": "かいご",
+   "bn_raw": "বয়স্ক/অসুস্থ ব্যǬক্তির যত্নে",
+   "page": 21,
+   "y": 93.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "目標",
+   "reading": "もくひょう",
+   "bn_raw": "লক্ষি্য",
+   "page": 21,
+   "y": 117.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "吹き替え",
+   "reading": "ふきかえ",
+   "bn_raw": "ডা7বং",
+   "page": 21,
+   "y": 140.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "知識",
+   "reading": "ちしき",
+   "bn_raw": "জ্ঞান",
+   "page": 21,
+   "y": 164.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "足りる",
+   "reading": "たりる",
+   "bn_raw": "য=$ষ্ট হওয়া",
+   "page": 21,
+   "y": 188.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "最初",
+   "reading": "さいしょ",
+   "bn_raw": "প্র$ম; শুরু=ত",
+   "page": 21,
+   "y": 212.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "失敗する",
+   "reading": "しっぱいする",
+   "bn_raw": "ব্য$র্থ হওয়া; ভেুল করা",
+   "page": 21,
+   "y": 236.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "悩み",
+   "reading": "なやみ",
+   "bn_raw": "%ুǭশ্চিন্তা; সমস্যা",
+   "page": 21,
+   "y": 260.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 9,
+   "lesson_title": "日本語の勉強を始めたきっかけって、何だったの？",
+   "word": "理解する",
+   "reading": "りかいする",
+   "bn_raw": "ǂবাঝা; উপল7ব্ধি করা",
+   "page": 21,
+   "y": 284.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "登録",
+   "reading": "とうろく",
+   "bn_raw": "7নবন্ধন",
+   "page": 21,
+   "y": 334.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "～在住",
+   "reading": "～ざいじゅう",
+   "bn_raw": "～এ বসবাসকারী",
+   "page": 21,
+   "y": 358.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "対象",
+   "reading": "たいしょう",
+   "bn_raw": "লক্ষি্য ব্যǬক্তি/বস্তু;対象",
+   "page": 21,
+   "y": 381.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "専門学校",
+   "reading": "せんもんがっこう",
+   "bn_raw": "ǂপশাগত/কা7রগ7র ক=লজ",
+   "page": 21,
+   "y": 406.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "文章",
+   "reading": "ぶんしょう",
+   "bn_raw": "Ǭল7খত বাক্য; রচিনা",
+   "page": 21,
+   "y": 430.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "基礎的（な）",
+   "reading": "きそてき（な）",
+   "bn_raw": "ǂমৌǬলক",
+   "page": 21,
+   "y": 453.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "表現",
+   "reading": "ひょうげん",
+   "bn_raw": "প্রকাশ; অ7ভেব্যǬক্তি",
+   "page": 21,
+   "y": 477.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "研究する",
+   "reading": "けんきゅうする",
+   "bn_raw": "গ=বষণা করা",
+   "page": 21,
+   "y": 501.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "字幕",
+   "reading": "じまく",
+   "bn_raw": "সাবটাই=টল",
+   "page": 21,
+   "y": 525.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 10,
+   "lesson_title": "どうやって日本語を勉強してる？",
+   "word": "助かる",
+   "reading": "たすかる",
+   "bn_raw": "উপকার হওয়া; রক্ষিা পাওয়া",
+   "page": 21,
+   "y": 549.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "忘れ物",
+   "reading": "わすれもの",
+   "bn_raw": "ǂফ=ল আসা Ǭজ7নস",
+   "page": 21,
+   "y": 599.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "提示する",
+   "reading": "ていじする",
+   "bn_raw": "ǂ%খা=না; উপস্থাপন করা",
+   "page": 21,
+   "y": 623.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "財布",
+   "reading": "さいふ",
+   "bn_raw": "মা7নব্যাগ",
+   "page": 21,
+   "y": 647.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "発券する",
+   "reading": "はっけんする",
+   "bn_raw": "টি7কট ইসু্য করা",
+   "page": 21,
+   "y": 671.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "法律",
+   "reading": "ほうりつ",
+   "bn_raw": "আইন",
+   "page": 21,
+   "y": 695.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "落とす",
+   "reading": "おとす",
+   "bn_raw": "ǂফ=ল ǂ%ওয়া",
+   "page": 21,
+   "y": 719.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "違反",
+   "reading": "いはん",
+   "bn_raw": "লঙ্ঘন",
+   "page": 21,
+   "y": 743.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "預ける",
+   "reading": "あずける",
+   "bn_raw": "জমা রাখা; কারও কা=ছে ǂর=খ ǂ%ওয়া",
+   "page": 21,
+   "y": 766.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "協力",
+   "reading": "きょうりょく",
+   "bn_raw": "সহ=যা7গতা",
+   "page": 22,
+   "y": 69.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "払う",
+   "reading": "はらう",
+   "bn_raw": "প7র=শাধ করা",
+   "page": 22,
+   "y": 93.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 11,
+   "lesson_title": "これは詐欺メールですよ",
+   "word": "鉄道会社",
+   "reading": "てつどうがいしゃ",
+   "bn_raw": "ǂরল ǂকাম্পা7ন",
+   "page": 22,
+   "y": 116.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "警察",
+   "reading": "けいさつ",
+   "bn_raw": "পুǬলশ",
+   "page": 22,
+   "y": 167.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "～歳",
+   "reading": "～さい",
+   "bn_raw": "～ বছের বয়স",
+   "page": 22,
+   "y": 191.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "消防署",
+   "reading": "しょうぼうしょ",
+   "bn_raw": "ফায়ার ǂস্টেশন",
+   "page": 22,
+   "y": 215.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "警報",
+   "reading": "けいほう",
+   "bn_raw": "সতকর্থ সং=কত",
+   "page": 22,
+   "y": 239.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "救急車",
+   "reading": "きゅうきゅうしゃ",
+   "bn_raw": "অ্যাম্বু=লন্স",
+   "page": 22,
+   "y": 262.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "出張",
+   "reading": "しゅっちょう",
+   "bn_raw": "কা=জর জন্য ব্যবসা7য়ক সফর",
+   "page": 22,
+   "y": 286.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "ひき逃げ",
+   "reading": "ひきにげ",
+   "bn_raw": "ধাক্কা 7%=য় পাǬল=য় যাওয়া; 7হট-অ্যান্ড-রান",
+   "page": 22,
+   "y": 310.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "曲がる",
+   "reading": "まがる",
+   "bn_raw": "বাাক ǂনওয়া",
+   "page": 22,
+   "y": 334.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "交差点",
+   "reading": "こうさてん",
+   "bn_raw": "ǂচিৌরাস্তা; রাস্তার ǂমাড়",
+   "page": 22,
+   "y": 358.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "置く",
+   "reading": "おく",
+   "bn_raw": "রাখা",
+   "page": 22,
+   "y": 382.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "降る",
+   "reading": "ふる",
+   "bn_raw": "বৃষ্টি/তুষার পড়া",
+   "page": 22,
+   "y": 406.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 12,
+   "lesson_title": "救急車をお願いします",
+   "word": "～丁目",
+   "reading": "～ちょうめ",
+   "bn_raw": "ঠিকানার ব্লক নম্বর",
+   "page": 22,
+   "y": 429.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 13,
+   "lesson_title": "ご結婚おめでとうございます",
+   "word": "運命",
+   "reading": "うんめい",
+   "bn_raw": "ভোগ্য",
+   "page": 22,
+   "y": 480.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 13,
+   "lesson_title": "ご結婚おめでとうございます",
+   "word": "若い",
+   "reading": "わかい",
+   "bn_raw": "তরুণ",
+   "page": 22,
+   "y": 504.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 13,
+   "lesson_title": "ご結婚おめでとうございます",
+   "word": "糸",
+   "reading": "いと",
+   "bn_raw": "সুতা",
+   "page": 22,
+   "y": 528.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 13,
+   "lesson_title": "ご結婚おめでとうございます",
+   "word": "就職する",
+   "reading": "しゅうしょくする",
+   "bn_raw": "চিাক7র পাওয়া; চিাক7র=ত ǂযাগ ǂ%ওয়া",
+   "page": 22,
+   "y": 552.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 13,
+   "lesson_title": "ご結婚おめでとうございます",
+   "word": "恋人",
+   "reading": "こいびと",
+   "bn_raw": "ǂপ্র7মক/ǂপ্র7মকা",
+   "page": 22,
+   "y": 575.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 13,
+   "lesson_title": "ご結婚おめでとうございます",
+   "word": "退職する",
+   "reading": "たいしょくする",
+   "bn_raw": "চিাক7র ছোড়া; অবসর ǂনওয়া",
+   "page": 22,
+   "y": 599.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 13,
+   "lesson_title": "ご結婚おめでとうございます",
+   "word": "太陽",
+   "reading": "たいよう",
+   "bn_raw": "সূযর্থ",
+   "page": 22,
+   "y": 623.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 13,
+   "lesson_title": "ご結婚おめでとうございます",
+   "word": "覚えている",
+   "reading": "おぼえている",
+   "bn_raw": "ম=ন রাখা; ম=ন আ=ছে",
+   "page": 22,
+   "y": 647.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 13,
+   "lesson_title": "ご結婚おめでとうございます",
+   "word": "反対",
+   "reading": "はんたい",
+   "bn_raw": "7বপরীত; 7ব=রা7ধতা",
+   "page": 22,
+   "y": 671.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 14,
+   "lesson_title": "友人のことで悩んでいます",
+   "word": "仲良し",
+   "reading": "なかよし",
+   "bn_raw": "ঘ7নষ্ঠ বন্ধু; ভো=লা সম্পকর্থ",
+   "page": 22,
+   "y": 721.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 14,
+   "lesson_title": "友人のことで悩んでいます",
+   "word": "悲しい",
+   "reading": "かなしい",
+   "bn_raw": "%ুঃ7খত; 7বষণ্ণ",
+   "page": 22,
+   "y": 745.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 14,
+   "lesson_title": "友人のことで悩んでいます",
+   "word": "恋愛",
+   "reading": "れんあい",
+   "bn_raw": "ǂপ্রম; ǂরামা7ন্টিক সম্পকর্থ",
+   "page": 22,
+   "y": 769.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 14,
+   "lesson_title": "友人のことで悩んでいます",
+   "word": "尊敬する",
+   "reading": "そんけいする",
+   "bn_raw": "শ্রদ্ধা করা",
+   "page": 23,
+   "y": 69.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 14,
+   "lesson_title": "友人のことで悩んでいます",
+   "word": "既読",
+   "reading": "きどく",
+   "bn_raw": "বাতর্থা পড়া হ=য়=ছে (স্টে্যাটাস)",
+   "page": 23,
+   "y": 93.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 14,
+   "lesson_title": "友人のことで悩んでいます",
+   "word": "実は",
+   "reading": "じつは",
+   "bn_raw": "আস=ল",
+   "page": 23,
+   "y": 116.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 14,
+   "lesson_title": "友人のことで悩んでいます",
+   "word": "好奇心",
+   "reading": "こうきしん",
+   "bn_raw": "ǂকৌতূহল",
+   "page": 23,
+   "y": 140.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 14,
+   "lesson_title": "友人のことで悩んでいます",
+   "word": "例えば",
+   "reading": "たとえば",
+   "bn_raw": "উ%াহরণস্বরূপ",
+   "page": 23,
+   "y": 164.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 14,
+   "lesson_title": "友人のことで悩んでいます",
+   "word": "積極的（な）",
+   "reading": "せっきょくてき（な）",
+   "bn_raw": "সǬক্রয়; উ=%্যাগী",
+   "page": 23,
+   "y": 188.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "湖",
+   "reading": "みずうみ",
+   "bn_raw": "হ্র%",
+   "page": 23,
+   "y": 239.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "昔",
+   "reading": "むかし",
+   "bn_raw": "আ=গ; অতী=ত",
+   "page": 23,
+   "y": 262.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "雲",
+   "reading": "くも",
+   "bn_raw": "ǂমঘ",
+   "page": 23,
+   "y": 286.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "かき氷",
+   "reading": "かきごおり",
+   "bn_raw": "বরফ কু7চি 7%=য় ǃত7র জাপা7ন 7মষ্টি",
+   "page": 23,
+   "y": 310.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "空港",
+   "reading": "くうこう",
+   "bn_raw": "7বমানবন্দের",
+   "page": 23,
+   "y": 334.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "石炭",
+   "reading": "せきたん",
+   "bn_raw": "কয়লা",
+   "page": 23,
+   "y": 358.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "各地",
+   "reading": "かくち",
+   "bn_raw": "7ব7ভেন্ন স্থান",
+   "page": 23,
+   "y": 382.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "暖かい",
+   "reading": "あたたかい",
+   "bn_raw": "উষ্ণ",
+   "page": 23,
+   "y": 406.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "緑",
+   "reading": "みどり",
+   "bn_raw": "সবুজ",
+   "page": 23,
+   "y": 429.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "訪れる",
+   "reading": "おとずれる",
+   "bn_raw": "প7র%শর্থন করা; ঘুর=ত যাওয়া",
+   "page": 23,
+   "y": 453.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 15,
+   "lesson_title": "桜島を見てみたいんです",
+   "word": "黄色",
+   "reading": "きいろ",
+   "bn_raw": "হলু%",
+   "page": 23,
+   "y": 477.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "新幹線",
+   "reading": "しんかんせん",
+   "bn_raw": "7শনকান=সন; জাপা=নর বু=লট ǂট্রেন",
+   "page": 23,
+   "y": 528.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "お土産",
+   "reading": "おみやげ",
+   "bn_raw": "স্মারক উপহার; সু=ভে7নর",
+   "page": 23,
+   "y": 552.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "飛行機",
+   "reading": "ひこうき",
+   "bn_raw": "7বমান",
+   "page": 23,
+   "y": 575.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "美術館",
+   "reading": "びじゅつかん",
+   "bn_raw": "7শল্পকলা জা%ুঘর",
+   "page": 23,
+   "y": 599.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "宿泊",
+   "reading": "しゅくはく",
+   "bn_raw": "রা7ত্রযাপন; ǂকা$াও $াকা",
+   "page": 23,
+   "y": 623.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "追加",
+   "reading": "ついか",
+   "bn_raw": "সং=যাজন; অ7ত7রক্তি ǂযাগ করা",
+   "page": 23,
+   "y": 647.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "和室",
+   "reading": "わしつ",
+   "bn_raw": "জাপা7ন ধাা=চির ঘর",
+   "page": 23,
+   "y": 671.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "高級（な）",
+   "reading": "こうきゅう（な）",
+   "bn_raw": "উচ্চিমা=নর; 7বলাসবহুল",
+   "page": 23,
+   "y": 695.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "洋室",
+   "reading": "ようしつ",
+   "bn_raw": "পǭশ্চিমা ধাা=চির ঘর",
+   "page": 23,
+   "y": 719.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 16,
+   "lesson_title": "いい写真がたくさん撮れました",
+   "word": "疲れる",
+   "reading": "つかれる",
+   "bn_raw": "ক্লান্ত হওয়া",
+   "page": 23,
+   "y": 742.9
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "給料",
+   "reading": "きゅうりょう",
+   "bn_raw": "ǂবতন",
+   "page": 24,
+   "y": 69.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "髪型",
+   "reading": "かみがた",
+   "bn_raw": "চিু=লর ধরন; ǂহয়ারস্টোইল",
+   "page": 24,
+   "y": 93.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "欠勤",
+   "reading": "けっきん",
+   "bn_raw": "কা=জ অনুপǬস্থ7ত",
+   "page": 24,
+   "y": 117.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "不可",
+   "reading": "ふか",
+   "bn_raw": "অনু=মা7%ত নয়; অগ্রহণ=যাগ্য",
+   "page": 24,
+   "y": 140.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "会議",
+   "reading": "かいぎ",
+   "bn_raw": "সভো; 7মটিং",
+   "page": 24,
+   "y": 164.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "～係",
+   "reading": "～がかり",
+   "bn_raw": "%া7য়ত্বপ্রাপ্ত কমর্থী",
+   "page": 24,
+   "y": 188.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "残業",
+   "reading": "ざんぎょう",
+   "bn_raw": "অ7ত7রক্তি সময় কাজ; ওভোরটাইম",
+   "page": 24,
+   "y": 212.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "速い",
+   "reading": "はやい",
+   "bn_raw": "দ্রুত",
+   "page": 24,
+   "y": 236.3
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "規則",
+   "reading": "きそく",
+   "bn_raw": "7নয়ম",
+   "page": 24,
+   "y": 260.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 17,
+   "lesson_title": "ホールの仕事について説明します",
+   "word": "遅刻する",
+   "reading": "ちこくする",
+   "bn_raw": "ǂ%7র করা",
+   "page": 24,
+   "y": 284.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "輸出",
+   "reading": "ゆしゅつ",
+   "bn_raw": "রপ্তা7ন",
+   "page": 24,
+   "y": 334.5
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "努力",
+   "reading": "どりょく",
+   "bn_raw": "প্র=চিষ্টা",
+   "page": 24,
+   "y": 358.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "作成",
+   "reading": "さくせい",
+   "bn_raw": "ǃত7র করা; প্রস্তুতকরণ",
+   "page": 24,
+   "y": 382.2
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "非常に",
+   "reading": "ひじょうに",
+   "bn_raw": "অত্যন্ত",
+   "page": 24,
+   "y": 406.1
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "未経験",
+   "reading": "みけいけん",
+   "bn_raw": "অ7ভেজ্ঞতাহীন; পূবর্থ অ7ভেজ্ঞতা ǂনই",
+   "page": 24,
+   "y": 430.0
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "充実する",
+   "reading": "じゅうじつする",
+   "bn_raw": "প7রপূণর্থ/সা$র্থক হওয়া",
+   "page": 24,
+   "y": 453.8
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "順調",
+   "reading": "じゅんちょう",
+   "bn_raw": "সুষ্ঠুভো=ব; ভো=লাভো=ব এ=গা=না",
+   "page": 24,
+   "y": 477.7
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "答える",
+   "reading": "こたえる",
+   "bn_raw": "উত্তর ǂ%ওয়া",
+   "page": 24,
+   "y": 501.6
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "報告",
+   "reading": "ほうこく",
+   "bn_raw": "প্র7ত=ব%ন; জানা=না",
+   "page": 24,
+   "y": 525.4
+  },
+  {
+   "book": "preintermediate",
+   "lesson": 18,
+   "lesson_title": "働かせていただければ、うれしいです",
+   "word": "向いている",
+   "reading": "むいている",
+   "bn_raw": "উপযুক্তি হওয়া; মানানসই হওয়া",
+   "page": 24,
+   "y": 549.3
+  }
+ ],
+ "problems": []
+}

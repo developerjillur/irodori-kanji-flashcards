@@ -97,5 +97,34 @@ The card uses the accent column (the PDF's full reading). These 12 are listed fo
 | E2-L06-092 | 浄土ヶ浜 | じょうどがはま | じょうどがはま | wordlist_Z.pdf p.26 |
 | E2-L12-062 | ～合（5.5合） | ～ごう（ごーてんごごう） | ごう + ごてんごごう | wordlist_Z.pdf p.53 |
 
+## Irodori Kanji (separate category), from `Irodori_Kanji_Furigana_Bangla_v2.pdf`
+
+The PDF has 634 rows; 182 are Pre-Intermediate (初中級) and are left out.
+
+| Lesson | Starter: PDF rows / cards | Elementary 1: PDF rows / cards | Elementary 2: PDF rows / cards |
+|---|---|---|---|
+| 1 | 0 / 0 | 10 / 10 | 9 / 9 |
+| 2 | 0 / 0 | 11 / 11 | 10 / 10 |
+| 3 | 3 / 3 | 9 / 9 | 10 / 10 |
+| 4 | 4 / 4 | 10 / 10 | 9 / 9 |
+| 5 | 3 / 3 | 10 / 10 | 10 / 10 |
+| 6 | 3 / 3 | 10 / 10 | 10 / 10 |
+| 7 | 4 / 4 | 10 / 10 | 11 / 11 |
+| 8 | 3 / 3 | 9 / 9 | 9 / 9 |
+| 9 | 8 / 8 | 10 / 10 | 10 / 10 |
+| 10 | 7 / 7 | 9 / 9 | 10 / 10 |
+| 11 | 6 / 6 | 10 / 10 | 10 / 10 |
+| 12 | 6 / 6 | 9 / 9 | 10 / 10 |
+| 13 | 8 / 8 | 11 / 11 | 11 / 11 |
+| 14 | 6 / 6 | 10 / 10 | 10 / 10 |
+| 15 | 6 / 6 | 11 / 11 | 10 / 10 |
+| 16 | 10 / 10 | 12 / 12 | 9 / 9 |
+| 17 | 8 / 8 | 11 / 11 | 10 / 10 |
+| 18 | 6 / 6 | 11 / 11 | 10 / 10 |
+| **Total** | **91 / 91** | **183 / 183** | **178 / 178** |
+
+**Irodori Kanji: 452 cards in 3 books; the combined "All Irodori Kanji" deck is the same 452 cards in PDF order.**
+
+
 Result: PASS
 

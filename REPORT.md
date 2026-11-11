@@ -110,3 +110,36 @@ Card-এর reading নেওয়া PDF-এর アクセント column থে�
 
 - Card-এ শোনার audio, জানা বা না-জানা চিহ্ন, বা পুনরাবৃত্তির সময়সূচি (spaced repetition) নেই; চাওয়া হয়নি।
 - Kanji ছাড়া শব্দ (hiragana বা katakana-য় লেখা 1364টা) কোনো deck-এ নেই, নির্দেশ অনুযায়ী।
+
+## সংযোজন (2026-11-11): আলাদা category "Irodori Kanji"
+
+- উৎস: `Irodori_Kanji_Furigana_Bangla_v2.pdf` (24 পাতা)। PDF নিজে বলছে 634টা entry; script-ও 634টা সারি পেয়েছে।
+- রাখা হয়েছে 452টা: Starter 91, Elementary 1 183, Elementary 2 178। Pre-Intermediate (初中級)-এর 182টা সারি পুরো বাদ; app-এ
+  তার একটাও নেই (`scripts/verify.py` এটা পরীক্ষা করে)।
+- পথ: হোম → Irodori Kanji → বই → Lesson → card; আর "All Irodori Kanji" (452টা card এক deck-এ, PDF-এর ক্রমে, প্রতিটা card-এর
+  পেছনে কোন বই ও lesson তার tag)।
+- Vocabulary অংশ থেকে পুরো আলাদা: আলাদা data ফাইল (`data/kanji/`), app-এ আলাদা constant, আলাদা পথ (`#/kanji/...`), আলাদা id;
+  vocabulary-র 2881টা card আগের মতোই আছে।
+- Lesson ধরে গণনা (PDF-এর সারি আর card সমান, সব lesson-এ): `out/VERIFY.md`-এর শেষ table।
+
+### যা জানা দরকার
+
+1. PDF-এ একক kanji অক্ষর নয়, প্রতিটা lesson-এর kanji-র শব্দ (漢字のことば) আছে, যেমন `名前`, `食べます`, `～曜日`। Card-এর সামনে PDF-এর
+   সেই শব্দই।
+2. Starter Lesson 1 আর 2-এ PDF-এ কিছু নেই (PDF নিজেই বলছে তালিকা 入門 Lesson 3 থেকে শুরু)। App-এ ওই দুটো lesson ফাঁকা দেখায়।
+3. Reading: PDF-এর furigana যেমন আছে তেমন। 452টার মধ্যে 407টা The Japan Foundation-এর word list-এর reading-এর সাথে হুবহু মিলেছে;
+   `～人` (`～じん`) word list-এ অন্য রূপে আছে; বাকি 44টা (সংখ্যা `一` থেকে `万`, `～回`, `都合` ইত্যাদি) word list-এ ওই রূপে নেই,
+   সেগুলো আমি নিজে পড়ে দেখেছি, ভুল পাইনি।
+4. বাংলা অর্থ PDF-এ যেমন আছে তেমন রাখা (PDF-টাই মূল উৎস)। দুটো জায়গায় PDF-এর বাংলা card-এ আলাদা (তালিকা `data/kanji/bn_corrections.tsv`-তে):
+   `午前`: PDF-এ "সকাল ১২টার আগের সময়", card-এ "দুপুর ১২টার আগের সময়"; `お酒`: PDF-এ "মদ্যপ পানীয়" (মদ্যপ মানে মাতাল মানুষ),
+   card-এ "মদ জাতীয় পানীয়"।
+5. PDF-এর বাংলা text হিসেবে ভাঙা আসে, তাই বাংলা পাতা দেখে লেখা; এরপর script 452টা লাইনের ব্যঞ্জনবর্ণ PDF-এর সাথে মিলিয়েছে
+   (উপরের দুটো সংশোধন ছাড়া সব মিলেছে)। পাতা 2, 8, 12 আর 18 ছবি হিসেবে চোখে দেখা হয়েছে।
+6. PDF-এর কিছু বাংলা একটু বইয়ের ভাষার (যেমন "আরোহণ করা", "সপ্তাহান্ত", "ভোগকর"); আপনার দেওয়া উৎস বলে বদলাইনি।
+
+### Browser-এ পরীক্ষা
+
+- Irodori Kanji → Starter: 18টা ঘর, Lesson 1 ও 2 ফাঁকা, বাকি 16টায় card। Starter L9: `月` → `げつ`, "সোমবারের 'সোম'"।
+- Elementary 1 L2: `人` → `ひと`; Elementary 2 L13: `市` → `し`।
+- All Irodori Kanji: 452টা card, প্রথম `名前`, শেষ `留学する`, Pre-Intermediate-এর শব্দ (`野球`, `弱い`, `冷蔵庫`, `俳優`) নেই।
+- Vocabulary deck (Starter L4, `父`) আগের মতোই চলে; console-এ error নেই।

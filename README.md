@@ -50,6 +50,27 @@ python3 -I -m unittest discover -s tests
 
 একটা বাংলা অর্থ বদলাতে: `data/tr/bn_fixes.tsv`-তে এক লাইন যোগ করুন (`id<TAB>শব্দ<TAB>নতুন বাংলা`), তারপর শেষ চারটা command চালান।
 
+## Irodori Kanji (আলাদা category)
+
+হোম পাতার নিচে আলাদা অংশ: **Irodori Kanji → Starter / Elementary 1 / Elementary 2 → Lesson → card**, আর
+**All Irodori Kanji** (তিন বইয়ের সব kanji এক deck-এ)। এর data, পথ আর deck vocabulary অংশ থেকে পুরো আলাদা
+(`data/kanji/`, app-এর ভেতরে আলাদা `KANJI` constant)।
+
+- উৎস: `Irodori_Kanji_Furigana_Bangla_v2.pdf` (24 পাতা, 634 সারি)। Pre-Intermediate (初中級)-এর 182টা সারি বাদ; থাকে 452টা।
+- শব্দ আর furigana script দিয়ে PDF থেকে তোলা (`scripts/extract_kanji.py`)। PDF-এর বাংলা লেখা text হিসেবে ভাঙা আসে (স্বরচিহ্ন
+  হারায়), তাই বাংলা অর্থ পাতা দেখে `data/kanji/bn.tsv`-তে লেখা; `scripts/build_kanji.py` প্রতিটা লাইনের ব্যঞ্জনবর্ণ PDF-এর
+  সাথে মিলিয়ে দেখে, না মিললে build থামে।
+- PDF-এর বাংলা যেখানে ইচ্ছা করে বদলানো হয়েছে তার তালিকা: `data/kanji/bn_corrections.tsv`।
+
+নতুন করে বানাতে:
+
+```bash
+python3 -I scripts/extract_kanji.py ~/Downloads/Irodori_Kanji_Furigana_Bangla_v2.pdf data/kanji/raw.json
+python3 -I scripts/build_kanji.py data
+python3 -I scripts/build_app.py data scripts/app_template.html index.html
+python3 -I scripts/verify.py
+```
+
 ## যা জানা দরকার
 
 - "শব্দ" বলতে word list-এর প্রতিটা সারি: একক শব্দ, বাক্য বা expression, আর `～語（中国語）`-এর মতো pattern, সবই।

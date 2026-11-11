@@ -18,10 +18,12 @@
   [data-book="starter"] { --accent: #b10f1f; --accent-soft: #f7e4e1; }
   [data-book="elementary1"] { --accent: #00558f; --accent-soft: #dfeaf3; }
   [data-book="elementary2"] { --accent: #5e3a7b; --accent-soft: #ebe3f1; }
+  [data-book="kanji"] { --accent: #0f6b5c; --accent-soft: #dcefeb; }
   @media (prefers-color-scheme: dark) {
     [data-book="starter"] { --accent: #ef6a73; --accent-soft: #3a2224; }
     [data-book="elementary1"] { --accent: #6db3e6; --accent-soft: #1d2f3d; }
     [data-book="elementary2"] { --accent: #b995d6; --accent-soft: #2f2639; }
+    [data-book="kanji"] { --accent: #63c7b4; --accent-soft: #1c3531; }
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; }
@@ -57,6 +59,11 @@
   .lesson .jp { font-family: var(--jp); color: var(--muted); font-size: .85rem; }
   .lesson .count { margin-top: 8px; color: var(--accent); font-weight: 700; }
   .lesson .of { color: var(--muted); font-size: .8rem; }
+  h2.sec { font-size: 1.05rem; margin: 30px 0 4px; }
+  p.secnote { color: var(--muted); margin: 0 0 14px; font-size: .95rem; max-width: 62ch; }
+  .lesson .lt { font-family: var(--jp); color: var(--muted); font-size: .78rem; line-height: 1.35; margin-top: 2px; }
+  .lesson.none { opacity: .55; border-style: dashed; }
+  .lesson.none:hover { transform: none; border-color: var(--line); }
   .deckbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
   .deckbar h1 { font-size: 1.3rem; margin: 0; font-family: var(--jp); }
   .counter { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--accent); font-size: 1.05rem; }
@@ -119,10 +126,11 @@
     <nav class="crumbs" id="crumbs" aria-label="অবস্থান"></nav>
   </header>
   <main id="app"></main>
-  <footer class="note">শব্দ, উচ্চারণ ও ক্রম: The Japan Foundation-এর「いろどり 生活の日本語」ことばリスト (Ver. 2021/10/01)। বাংলা অর্থ আলাদাভাবে লেখা।</footer>
+  <footer class="note">শব্দ, উচ্চারণ ও ক্রম: The Japan Foundation-এর「いろどり 生活の日本語」ことばリスト (Ver. 2021/10/01)। বাংলা অর্থ আলাদাভাবে লেখা। Irodori Kanji অংশ: আলাদা kanji PDF (漢字のことば, furigana ও বাংলা অর্থসহ)।</footer>
 </div>
 <script>
 const DATA = /*__DATA__*/null;
+const KANJI = /*__KANJI__*/null;
 </script>
 <script>
 (function () {
@@ -171,8 +179,9 @@ const DATA = /*__DATA__*/null;
     document.title = "Irodori Kanji Flashcards";
     var all = DATA.books.reduce(function (s, b) { return s + total(b); }, 0);
     app.innerHTML = "";
-    app.appendChild(el("h1", { text: "কোন বই পড়বেন?" }));
-    app.appendChild(el("p", { class: "lead", text: "Irodori-র তিন বইয়ের প্রতিটা lesson-এর শুধু kanji থাকা শব্দ। মোট " + bn(all) + "টা card, lesson ধরে আলাদা deck।" }));
+    app.appendChild(el("h1", { text: "কী পড়বেন?" }));
+    app.appendChild(el("h2", { class: "sec", text: "Vocabulary: kanji থাকা শব্দ" }));
+    app.appendChild(el("p", { class: "secnote", text: "Irodori-র তিন বইয়ের প্রতিটা lesson-এর শুধু kanji থাকা শব্দ। মোট " + bn(all) + "টা card, lesson ধরে আলাদা deck।" }));
     var grid = el("div", { class: "books" });
     DATA.books.forEach(function (b) {
       grid.appendChild(el("a", { class: "book", href: "#/" + b.key, "data-book": b.key }, [
@@ -186,6 +195,97 @@ const DATA = /*__DATA__*/null;
       ]));
     });
     app.appendChild(grid);
+    if (KANJI) {
+      app.appendChild(el("h2", { class: "sec", text: "Irodori Kanji: আলাদা category" }));
+      app.appendChild(el("p", { class: "secnote", text: "আলাদা kanji PDF থেকে নেওয়া kanji-র শব্দ (漢字のことば), lesson ধরে। উপরের vocabulary deck-এর সাথে এর কোনো মিশ্রণ নেই।" }));
+      var kgrid = el("div", { class: "books" });
+      kgrid.appendChild(el("a", { class: "book", href: "#/kanji", "data-book": "kanji" }, [
+        el("div", { class: "jp", text: "漢字" }),
+        el("div", { class: "name", text: "Irodori Kanji" }),
+        el("div", { class: "bn", text: "ইরোদোরি কানজি" }),
+        el("div", { class: "meta" }, [
+          el("span", { class: "pill", text: bn(KANJI.books.length) + "টা বই" }),
+          el("span", { class: "pill", text: bn(kanjiAll().length) + "টা card" })
+        ])
+      ]));
+      app.appendChild(kgrid);
+    }
+  }
+
+  // ---- the separate Irodori Kanji category (its own data, routes and decks) ----
+  function kanjiAll() {
+    var out = [];
+    KANJI.books.forEach(function (b) { b.lessons.forEach(function (l) { l.cards.forEach(function (c) {
+      out.push({ id: c.id, w: c.w, r: c.r, bn: c.bn, src: b.title + " · Lesson " + l.n });
+    }); }); });
+    return out;
+  }
+  function viewKanjiHome() {
+    root.setAttribute("data-book", "kanji");
+    setCrumbs([{ text: "সব বই", href: "#/" }, { text: "Irodori Kanji" }]);
+    document.title = "Irodori Kanji · Irodori Kanji Flashcards";
+    app.innerHTML = "";
+    app.appendChild(el("h1", { text: "Irodori Kanji (漢字)" }));
+    app.appendChild(el("p", { class: "lead", text: "বই বেছে lesson ধরে পড়ুন, অথবা সব kanji একসাথে এক deck-এ। Pre-Intermediate-এর kanji এখানে নেই।" }));
+    var grid = el("div", { class: "books" });
+    KANJI.books.forEach(function (b) {
+      var withCards = b.lessons.filter(function (l) { return l.cards.length; }).length;
+      grid.appendChild(el("a", { class: "book", href: "#/kanji/" + b.key }, [
+        el("div", { class: "jp", text: b.jp }),
+        el("div", { class: "name", text: b.title }),
+        el("div", { class: "bn", text: b.bn }),
+        el("div", { class: "meta" }, [
+          el("span", { class: "pill", text: bn(withCards) + "টা lesson-এ kanji" }),
+          el("span", { class: "pill", text: bn(total(b)) + "টা card" })
+        ])
+      ]));
+    });
+    grid.appendChild(el("a", { class: "book", href: "#/kanji/all" }, [
+      el("div", { class: "jp", text: "全部" }),
+      el("div", { class: "name", text: "All Irodori Kanji" }),
+      el("div", { class: "bn", text: "তিন বইয়ের সব kanji একসাথে" }),
+      el("div", { class: "meta" }, [el("span", { class: "pill", text: bn(kanjiAll().length) + "টা card, এক deck" })])
+    ]));
+    app.appendChild(grid);
+  }
+  function viewKanjiBook(book) {
+    root.setAttribute("data-book", "kanji");
+    setCrumbs([{ text: "সব বই", href: "#/" }, { text: "Irodori Kanji", href: "#/kanji" }, { text: book.title }]);
+    document.title = "Irodori Kanji " + book.title + " · Irodori Kanji Flashcards";
+    app.innerHTML = "";
+    app.appendChild(el("h1", { text: "Irodori Kanji · " + book.title + " (" + book.jp + ")" }));
+    app.appendChild(el("p", { class: "lead", text: "Lesson বেছে নিন। প্রতিটা lesson-এর kanji আলাদা deck।" }));
+    var grid = el("div", { class: "lessons" });
+    book.lessons.forEach(function (l) {
+      if (!l.cards.length) {
+        grid.appendChild(el("div", { class: "lesson none" }, [
+          el("div", { class: "no", text: "Lesson " + l.n }),
+          el("div", { class: "of", text: "kanji PDF-এ এই lesson-এ কিছু নেই" })
+        ]));
+        return;
+      }
+      grid.appendChild(el("a", { class: "lesson", href: "#/kanji/" + book.key + "/" + l.n }, [
+        el("div", { class: "no", text: "Lesson " + l.n }),
+        el("div", { class: "lt", lang: "ja", text: l.title }),
+        el("div", { class: "count", text: bn(l.cards.length) + "টা card" })
+      ]));
+    });
+    app.appendChild(grid);
+  }
+  function routeKanji(parts) {
+    if (parts[1] === "all") {
+      openDeck({ color: "kanji", title: "All Irodori Kanji", docTitle: "All Irodori Kanji", cards: kanjiAll(), english: false,
+        crumbs: [{ text: "সব বই", href: "#/" }, { text: "Irodori Kanji", href: "#/kanji" }, { text: "All Irodori Kanji" }] });
+      return;
+    }
+    var book = parts[1] ? KANJI.books.filter(function (b) { return b.key === parts[1]; })[0] : null;
+    if (!book) { viewKanjiHome(); return; }
+    var n = parseInt(parts[2], 10);
+    var lesson = n ? book.lessons.filter(function (l) { return l.n === n; })[0] : null;
+    if (!lesson) { viewKanjiBook(book); return; }
+    openDeck({ color: "kanji", title: "Kanji · " + book.title + " · Lesson " + lesson.n, docTitle: "Irodori Kanji " + book.title + " Lesson " + lesson.n,
+      cards: lesson.cards, english: false, emptyText: "kanji PDF-এ এই lesson-এ কোনো kanji নেই।",
+      crumbs: [{ text: "সব বই", href: "#/" }, { text: "Irodori Kanji", href: "#/kanji" }, { text: book.title, href: "#/kanji/" + book.key }, { text: "Lesson " + lesson.n }] });
   }
 
   function viewBook(book) {
@@ -214,17 +314,23 @@ const DATA = /*__DATA__*/null;
   }
 
   function viewDeck(book, lesson) {
-    root.setAttribute("data-book", book.key);
-    setCrumbs([{ text: "সব বই", href: "#/" }, { text: book.title, href: "#/" + book.key }, { text: "Lesson " + lesson.n }]);
-    document.title = book.title + " Lesson " + lesson.n + " · Irodori Kanji Flashcards";
+    openDeck({ color: book.key, title: book.title + " · Lesson " + lesson.n, docTitle: book.title + " Lesson " + lesson.n,
+      cards: lesson.cards, english: true, emptyText: "এই lesson-এ kanji থাকা কোনো শব্দ নেই।",
+      crumbs: [{ text: "সব বই", href: "#/" }, { text: book.title, href: "#/" + book.key }, { text: "Lesson " + lesson.n }] });
+  }
+
+  function openDeck(o) {
+    root.setAttribute("data-book", o.color);
+    setCrumbs(o.crumbs);
+    document.title = o.docTitle + " · Irodori Kanji Flashcards";
     app.innerHTML = "";
-    var cards = lesson.cards;
+    var cards = o.cards;
     if (!cards.length) {
-      app.appendChild(el("div", { class: "empty", text: "এই lesson-এ kanji থাকা কোনো শব্দ নেই।" }));
+      app.appendChild(el("div", { class: "empty", text: o.emptyText || "এই deck-এ কোনো card নেই।" }));
       return;
     }
     deck = { cards: cards, order: cards.map(function (_, i) { return i; }), pos: 0, flipped: false,
-      shuffle: pref("shuffle") === "1", english: pref("english") === "1" };
+      shuffle: pref("shuffle") === "1", english: !!o.english && pref("english") === "1" };
     if (deck.shuffle) deck.order = shuffled(cards.length);
 
     var counter = el("div", { class: "counter", "aria-live": "polite" });
@@ -265,6 +371,7 @@ const DATA = /*__DATA__*/null;
       if (c.x) tags.appendChild(el("span", { class: "tag", text: "বাক্য বা expression" }));
       if (c.rp) tags.appendChild(el("span", { class: "tag", text: "↺ আগের lesson-এও এসেছে" }));
       if (c.rf) tags.appendChild(el("span", { class: "tag", text: "reference শব্দ" }));
+      if (c.src) tags.appendChild(el("span", { class: "tag", text: c.src }));
       counter.textContent = bn(deck.pos + 1) + " / " + bn(deck.cards.length);
       bar.style.width = ((deck.pos + 1) / deck.cards.length * 100) + "%";
       prev.disabled = deck.pos === 0;
@@ -311,11 +418,11 @@ const DATA = /*__DATA__*/null;
       } else if (e.key === "s" || e.key === "S") { shuf.click(); }
     };
 
-    app.appendChild(el("div", { class: "deckbar" }, [el("h1", { text: book.title + " · Lesson " + lesson.n }), counter]));
+    app.appendChild(el("div", { class: "deckbar" }, [el("h1", { text: o.title }), counter]));
     app.appendChild(el("div", { class: "progress" }, [bar]));
     app.appendChild(el("div", { class: "stage" }, [card]));
     app.appendChild(el("div", { class: "controls" }, [prev, flip, next]));
-    app.appendChild(el("div", { class: "tools" }, [shuf, eng, again]));
+    app.appendChild(el("div", { class: "tools" }, o.english ? [shuf, eng, again] : [shuf, again]));
     var keys = el("div", { class: "keys" });
     keys.innerHTML = "<kbd>Space</kbd> উল্টাও · <kbd>←</kbd> <kbd>→</kbd> আগের ও পরের · <kbd>S</kbd> এলোমেলো";
     app.appendChild(keys);
@@ -325,6 +432,7 @@ const DATA = /*__DATA__*/null;
   function route() {
     deck = null; keyHandler = null;
     var parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
+    if (parts[0] === "kanji" && KANJI) { routeKanji(parts); window.scrollTo(0, 0); return; }
     var book = parts[0] ? findBook(parts[0]) : null;
     if (!book) { viewHome(); return; }
     var n = parseInt(parts[1], 10);

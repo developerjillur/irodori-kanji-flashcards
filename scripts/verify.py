@@ -23,12 +23,60 @@ BOOKS = [("starter", "S", "Starter (入門)", "wordlist_X.pdf"), ("elementary1",
          ("elementary2", "E2", "Elementary 2 (初級2)", "wordlist_Z.pdf")]
 
 
-def app_data(path):
+def app_data(path, name="DATA"):
     html = open(path, encoding="utf-8").read()
-    m = re.search(r"const DATA = (\{.*?\});\n</script>", html, re.S)
+    m = re.search(r"const %s = (\{.*?\});\n(?:const |</script>)" % name, html, re.S)
     if not m:
-        raise SystemExit("FAIL: no data found in " + path)
+        raise SystemExit("FAIL: no %s found in %s" % (name, path))
     return json.loads(m.group(1).replace("<\\/", "</"))
+
+
+def check_kanji(fails, lines, vocab_ids):
+    """The separate Irodori Kanji category: the app's kanji decks against the kanji PDF's rows."""
+    kdir = os.path.join(HERE, "data", "kanji")
+    raw = json.load(open(os.path.join(kdir, "raw.json"), encoding="utf-8"))
+    cards = json.load(open(os.path.join(kdir, "cards.json"), encoding="utf-8"))
+    app = app_data(os.path.join(HERE, "index.html"), "KANJI")
+    rows = raw["rows"]
+    pre = [r for r in rows if r["book"] == "preintermediate"]
+    kept_pairs = {(r["word"], r["reading"]) for r in rows if r["book"] != "preintermediate"}
+    pre_only = {(r["word"], r["reading"]) for r in pre} - kept_pairs
+    lines += ["## Irodori Kanji (separate category), from `%s`" % raw["pdf"], "",
+              "The PDF has %d rows; %d are Pre-Intermediate (初中級) and are left out." % (len(rows), len(pre)), "",
+              "| Lesson | Starter: PDF rows / cards | Elementary 1: PDF rows / cards | Elementary 2: PDF rows / cards |", "|---|---|---|---|"]
+    seen, totals = set(), []
+    table = {}
+    for bi, key in enumerate(("starter", "elementary1", "elementary2")):
+        ab, cb = app["books"][bi], cards["books"][bi]
+        if ab["key"] != key or len(ab["lessons"]) != 18:
+            fails.append("kanji %s: wrong book or not 18 lessons" % key)
+        tot = [0, 0]
+        for n in range(1, 19):
+            pdf_rows = [r for r in rows if r["book"] == key and r["lesson"] == n]
+            al, cl = ab["lessons"][n - 1]["cards"], cb["lessons"][n - 1]["cards"]
+            if [(r["word"], r["reading"]) for r in pdf_rows] != [(c["w"], c["r"]) for c in al]:
+                fails.append("kanji %s lesson %d: the deck differs from the PDF rows" % (key, n))
+            if [(c["id"], c["w"], c["r"], c["bn"]) for c in al] != [(c["id"], c["w"], c["r"], c["bn"]) for c in cl]:
+                fails.append("kanji %s lesson %d: the app differs from kanji/cards.json" % (key, n))
+            for c in al:
+                if c["id"] in seen or c["id"] in vocab_ids or not c["id"].startswith("K"):
+                    fails.append("kanji card id clash: " + c["id"])
+                seen.add(c["id"])
+                if (c["w"], c["r"]) in pre_only:
+                    fails.append("Pre-Intermediate entry in the app: " + c["w"])
+                if not KANJI.search(c["w"]) or KANJI.search(c["r"]) or not BENGALI.search(c["bn"]) or chr(0x2014) in c["bn"]:
+                    fails.append("kanji card %s: bad word, reading or Bangla" % c["id"])
+            table.setdefault(n, []).append("%d / %d" % (len(pdf_rows), len(al)))
+            tot = [tot[0] + len(pdf_rows), tot[1] + len(al)]
+        totals.append(tot)
+    for n in range(1, 19):
+        lines.append("| %d | %s |" % (n, " | ".join(table[n])))
+    lines += ["| **Total** | %s |" % " | ".join("**%d / %d**" % tuple(t) for t in totals), "",
+              "**Irodori Kanji: %d cards in 3 books; the combined \"All Irodori Kanji\" deck is the same %d cards in PDF order.**"
+              % (len(seen), len(seen)), ""]
+    if len(seen) != len(rows) - len(pre):
+        fails.append("kanji: %d cards, %d PDF rows kept" % (len(seen), len(rows) - len(pre)))
+    return len(seen), len(pre)
 
 
 def main():
@@ -101,6 +149,8 @@ def main():
               "| Card | Word | Reading on the card | Furigana printed above the word | PDF page |", "|---|---|---|---|---|"]
     for e in flagged:
         lines.append("| %s | %s | %s | %s | %s p.%d |" % (e["id"], e["word"], e["reading"], " + ".join(e["ruby"]) or "(none)", e["pdf"], e["pdf_page"]))
+    lines.append("")
+    kanji_cards, kanji_dropped = check_kanji(fails, lines, seen)
     lines += ["", "Result: %s" % ("PASS" if not fails else "FAIL (%d)" % len(fails)), ""]
     for f in fails[:50]:
         lines.append("- " + f)
@@ -113,6 +163,7 @@ def main():
         for f in fails[:20]:
             print(" -", f)
         sys.exit(1)
+    print("Irodori Kanji category: %d cards equal the kanji PDF's rows; %d Pre-Intermediate rows left out" % (kanji_cards, kanji_dropped))
     print("PASS: every lesson's kanji entries equal its deck; report in out/VERIFY.md")
 
 
